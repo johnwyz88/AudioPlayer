@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"CPU module not set.",1415885664566
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415885664582
+error,log,,,"CPU architecture type not set. ",1415885664582
+error,log,,,"CPU master group not set.",1415885664597
+error,log,,,"Expected base address of system ID component is undefined.",1415885664597
+error,log,,,"SOPC design not set.",1415885664597
+error,log,,,"CPU module not set.",1415885664613
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415885664613
+error,log,,,"CPU architecture type not set. ",1415885664628
+error,log,,,"CPU master group not set.",1415885664628
+error,log,,,"Expected base address of system ID component is undefined.",1415885664628
+error,log,,,"SOPC design not set.",1415885664644
+error,log,,,"CPU module not set.",1415885664644
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415885664644
+error,log,,,"CPU architecture type not set. ",1415885664660
+error,log,,,"CPU master group not set.",1415885664660
+error,log,,,"Expected base address of system ID component is undefined.",1415885664675
+error,log,,,"SOPC design not set.",1415885666142
+error,log,,,"CPU module not set.",1415885666142
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415885666157
+error,log,,,"CPU architecture type not set. ",1415885666157
+error,log,,,"CPU master group not set.",1415885666157
+error,log,,,"Expected base address of system ID component is undefined.",1415885666173
+error,log,,,"SOPC design not set.",1415885666173
+error,log,,,"CPU module not set.",1415885666188

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415890752702
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415890770595
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415890771812
+error,log,,,"SOPC design not set.",1415890771859
+error,log,,,"CPU module not set.",1415890771859
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415890771874
+error,log,,,"CPU architecture type not set. ",1415890771874
+error,log,,,"CPU master group not set.",1415890771874
+error,log,,,"SOPC design not set.",1415890771999
+error,log,,,"CPU module not set.",1415890771999
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415890772015
+error,log,,,"CPU architecture type not set. ",1415890772015
+error,log,,,"CPU master group not set.",1415890772015
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1415890773154
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1415890775588
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1415890782096
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1415890803718
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415890835636
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415890835916
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415890836197
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415890836525
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415890836821
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415890837102
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415890837430
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415890837726

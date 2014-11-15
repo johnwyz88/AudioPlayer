@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Failed Executing: [nios2-download, '--cable=USB-Blaster on localhost [USB-0]', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=0x0] return code: 4, 'other error'",1414683054139
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1414683056947
+opened,view,org.eclipse.ui.views,3.4.1.M20090826-0800,"org.eclipse.ui.views.PropertySheet",1414683057743
+activated,view,org.eclipse.ui.views,3.4.1.M20090826-0800,"org.eclipse.ui.views.PropertySheet",1414683057758
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1414683057916
+error,log,,,"Failed Executing: [nios2-download, '--cable=USB-Blaster on localhost [USB-0]', --device=1, --instance=0, --go, --accept-bad-sysid, --sidp=0x0, /cygdrive/n/ECE224/lab2/software/lab2/lab2.elf] return code: 4, 'other error'",1414683058915
+error,log,,,"Downloading ELF Process failed",1414683058915
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414683058930
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414683061083
+activated,view,org.eclipse.ui.views,3.4.1.M20090826-0800,"org.eclipse.ui.views.PropertySheet",1414683061707
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1414683062503
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1414683063361
+activated,view,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.views.TaskList",1414683066762
+activated,view,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.views.ProblemView",1414683067230
+activated,view,org.eclipse.ui.views,3.4.1.M20090826-0800,"org.eclipse.ui.views.PropertySheet",1414683067885
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1414683068587
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1414683072019
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1414683103677
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414683104738
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414683106048
+error,log,,,"SOPC design not set.",1414683106095
+error,log,,,"CPU module not set.",1414683106095
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414683106111
+error,log,,,"CPU architecture type not set. ",1414683106111
+error,log,,,"CPU master group not set.",1414683106111

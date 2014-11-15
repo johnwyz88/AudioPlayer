@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415893350074
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415893380931
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415893415890
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415893416358
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415893429572
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415893429946
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415893430773
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415893430788
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415893462831
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415893481020
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415893482222
+error,log,,,"SOPC design not set.",1415893482268
+error,log,,,"CPU module not set.",1415893482268
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415893482284
+error,log,,,"CPU architecture type not set. ",1415893482284
+error,log,,,"CPU master group not set.",1415893482284
+error,log,,,"SOPC design not set.",1415893482378
+error,log,,,"CPU module not set.",1415893482378
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415893482393
+error,log,,,"CPU architecture type not set. ",1415893482393
+error,log,,,"CPU master group not set.",1415893482393
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1415893482471
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1415893486184
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1415893492520
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1415893505110

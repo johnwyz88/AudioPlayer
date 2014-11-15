@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"SOPC design not set.",1414784876449
+error,log,,,"SOPC design not set.",1414784876454
+error,log,,,"CPU module not set.",1414784876460
+error,log,,,"CPU module not set.",1414784876466
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414784876471
+error,log,,,"CPU architecture type not set. ",1414784876477
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414784876484
+error,log,,,"CPU master group not set.",1414784876490
+error,log,,,"CPU architecture type not set. ",1414784876635
+error,log,,,"CPU master group not set.",1414784876646
+error,log,,,"SOPC design not set.",1414784876720
+error,log,,,"CPU module not set.",1414784876726
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414784876731
+error,log,,,"CPU architecture type not set. ",1414784876737
+error,log,,,"CPU master group not set.",1414784876743
+started,bundle,org.eclipse.cdt.launch,6.0.0.200909110608,"org.eclipse.cdt.launch",1414784876777
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414784893113
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414784894419
+error,log,,,"SOPC design not set.",1414784894464
+error,log,,,"CPU module not set.",1414784894470
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414784894475
+error,log,,,"CPU architecture type not set. ",1414784894481
+error,log,,,"CPU master group not set.",1414784894486
+error,log,,,"SOPC design not set.",1414784894597
+error,log,,,"CPU module not set.",1414784894603

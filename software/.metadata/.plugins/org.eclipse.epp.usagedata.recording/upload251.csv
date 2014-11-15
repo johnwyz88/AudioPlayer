@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920265469
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920266327
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920266342
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920269712
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920274236
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920278978
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.cut",1415920282113
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1415920284469
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415920286357
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920286778
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920287558
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920287573
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920293454
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920294515
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920297136
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920297776
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920298462
+error,log,,,"SOPC design not set.",1415920298524
+error,log,,,"CPU module not set.",1415920298524
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415920298524
+error,log,,,"CPU architecture type not set. ",1415920298524
+error,log,,,"CPU master group not set.",1415920298524
+error,log,,,"SOPC design not set.",1415920298634
+error,log,,,"CPU module not set.",1415920298634
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415920298634

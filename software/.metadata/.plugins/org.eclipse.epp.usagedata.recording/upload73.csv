@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Target is broken and needs to be reset",1414683107125
+error,log,,,"SOPC design not set.",1414683107187
+error,log,,,"CPU module not set.",1414683107187
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414683107203
+error,log,,,"CPU architecture type not set. ",1414683107203
+error,log,,,"CPU master group not set.",1414683107203
+activated,view,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.views.ProgressView",1414683107811
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1414683108373
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1414683111292
+error,log,,,"Failed Executing: [nios2-download, '--cable=USB-Blaster on localhost [USB-0]', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=0x0] return code: 4, 'other error'",1414683112197
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1414683113601
+activated,view,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.views.ProgressView",1414683115895
+error,log,,,"Failed Executing: [nios2-download, '--cable=USB-Blaster on localhost [USB-0]', --device=1, --instance=0, --go, --accept-bad-sysid, --sidp=0x0, /cygdrive/n/ECE224/lab2/software/lab2/lab2.elf] return code: 4, 'other error'",1414683117019
+error,log,,,"Downloading ELF Process failed",1414683117019
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414683117035
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414683118158
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1414683118579
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1414683119343
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1414683121746
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1414683123540
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1414683125911
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1414683131277
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414683132791
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414683141110
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.properties",1414683141110

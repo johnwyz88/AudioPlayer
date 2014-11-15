@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.runtime.version,sysinfo,,,"1.6.0_14-b08",1415919247302
+java.specification.name,sysinfo,,,"Java Platform API Specification",1415919247302
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1415919247302
+java.specification.version,sysinfo,,,"1.6",1415919247302
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1415919247302
+java.version,sysinfo,,,"1.6.0_14",1415919247302
+java.vm.info,sysinfo,,,"mixed mode",1415919247302
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1415919247302
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1415919247302
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1415919247302
+java.vm.specification.version,sysinfo,,,"1.0",1415919247302
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1415919247302
+java.vm.version,sysinfo,,,"14.0-b16",1415919247302
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1415919249891
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415919257551
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415919266645
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.edit.text.openLocalFile",1415919266661
+started,bundle,com.altera.sbtgui.ui,10.1.0.153,"com.altera.sbtgui.ui",1415919275912
+started,bundle,com.altera.sbtgui.core,10.1.0.153,"com.altera.sbtgui.core",1415919275943
+opened,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1415919275990
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415919276520
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415919319809
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1415919371648
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415919384127
+opened,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1415919389587

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"CPU architecture type not set. ",1414683001603
+error,log,,,"CPU master group not set.",1414683001618
+error,log,,,"Expected base address of system ID component is undefined.",1414683001618
+error,log,,,"Select one of the available target connection paths.",1414683001618
+error,log,,,"Select one of the available target Nios II byte stream device paths.",1414683001634
+error,log,,,"SOPC design not set.",1414683001743
+error,log,,,"CPU module not set.",1414683001743
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414683001743
+error,log,,,"CPU architecture type not set. ",1414683001759
+error,log,,,"CPU master group not set.",1414683001759
+error,log,,,"Expected base address of system ID component is undefined.",1414683001774
+error,log,,,"SOPC design not set.",1414683001774
+error,log,,,"CPU module not set.",1414683001790
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414683001790
+error,log,,,"CPU architecture type not set. ",1414683001790
+error,log,,,"CPU master group not set.",1414683001806
+error,log,,,"Expected base address of system ID component is undefined.",1414683001806
+error,log,,,"A project name must be selected.",1414683001868
+error,log,,,"Expected base address of system ID component is undefined.",1414683001868
+error,log,,,"A project name must be selected.",1414683001899
+error,log,,,"A project name must be selected.",1414683001946
+error,log,,,"Expected base address of system ID component is undefined.",1414683001946
+error,log,,,"A project name must be selected.",1414683001977
+error,log,,,"A project name must be selected.",1414683001977
+error,log,,,"Expected base address of system ID component is undefined.",1414683001993

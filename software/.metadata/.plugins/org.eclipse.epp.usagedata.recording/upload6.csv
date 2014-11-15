@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.cdt.launch,6.0.0.200909110608,"org.eclipse.cdt.launch",1414677849919
+error,log,,,"SOPC design not set.",1414677849935
+error,log,,,"CPU module not set.",1414677849950
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414677849950
+error,log,,,"CPU architecture type not set. ",1414677849950
+error,log,,,"CPU master group not set.",1414677849966
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414677849966
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414677849966
+error,log,,,"SOPC design not set.",1414677849982
+error,log,,,"CPU module not set.",1414677849982
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414677849982
+error,log,,,"CPU architecture type not set. ",1414677849997
+error,log,,,"CPU master group not set.",1414677849997
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414677850013
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414677850013
+error,log,,,"SOPC design not set.",1414677850013
+error,log,,,"CPU module not set.",1414677850028
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414677850028
+error,log,,,"CPU architecture type not set. ",1414677850028
+error,log,,,"CPU master group not set.",1414677850044
+error,log,,,"Select one of the available target connection paths.",1414677850044
+error,log,,,"SOPC design not set.",1414677850044
+error,log,,,"CPU module not set.",1414677850060
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414677850060
+error,log,,,"CPU architecture type not set. ",1414677850060

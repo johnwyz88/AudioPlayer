@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"A project name must be selected.",1414680629039
+error,log,,,"Expected base address of system ID component is undefined.",1414680629039
+error,log,,,"A project name must be selected.",1414680629070
+error,log,,,"A project name must be selected.",1414680629101
+error,log,,,"Expected base address of system ID component is undefined.",1414680629117
+error,log,,,"A project name must be selected.",1414680629132
+error,log,,,"A project name must be selected.",1414680629148
+error,log,,,"Expected base address of system ID component is undefined.",1414680629148
+error,log,,,"A project name must be selected.",1414680629179
+error,log,,,"A project name must be selected.",1414680629195
+error,log,,,"Expected base address of system ID component is undefined.",1414680629195
+error,log,,,"A project name must be selected.",1414680629226
+error,log,,,"No ELF file path has been selected.",1414680630084
+error,log,,,"Expected base address of system ID component is undefined.",1414680630099
+error,log,,,"No ELF file path has been selected.",1414680630131
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680633890
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.buildAll",1414680650161
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680650457
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680681704
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680688646
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680705151
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680705167
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680726242
+executed,command,,,"com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchShortcut.run",1414680726242
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1414680727740

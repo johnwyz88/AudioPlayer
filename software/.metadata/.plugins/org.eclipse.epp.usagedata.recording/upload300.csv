@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"CPU module not set.",1415925955931
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415925955933
+error,log,,,"CPU architecture type not set. ",1415925955934
+error,log,,,"CPU master group not set.",1415925955934
+error,log,,,"SOPC design not set.",1415925956032
+error,log,,,"CPU module not set.",1415925956032
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415925956033
+error,log,,,"CPU architecture type not set. ",1415925956033
+error,log,,,"CPU master group not set.",1415925956033
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1415925956145
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1415925959389
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1415925965552
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1415925976585
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415925981100
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415925984247
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415925984980
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415925984995
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415925990204
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415925994766
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415925995613
+error,log,,,"SOPC design not set.",1415925995647
+error,log,,,"CPU module not set.",1415925995649
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415925995651
+error,log,,,"CPU architecture type not set. ",1415925995652
+error,log,,,"CPU master group not set.",1415925995653

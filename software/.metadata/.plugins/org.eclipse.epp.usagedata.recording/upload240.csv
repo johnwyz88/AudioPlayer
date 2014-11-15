@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"CPU architecture type not set. ",1415919618170
+error,log,,,"CPU master group not set.",1415919618170
+error,log,,,"SOPC design not set.",1415919618185
+error,log,,,"CPU module not set.",1415919618185
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415919618185
+error,log,,,"CPU architecture type not set. ",1415919618185
+error,log,,,"CPU master group not set.",1415919618185
+error,log,,,"SOPC design not set.",1415919618185
+error,log,,,"CPU module not set.",1415919618185
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415919618185
+error,log,,,"CPU architecture type not set. ",1415919618185
+error,log,,,"CPU master group not set.",1415919618185
+error,log,,,"SOPC design not set.",1415919618217
+error,log,,,"CPU module not set.",1415919618217
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415919618217
+error,log,,,"CPU architecture type not set. ",1415919618217
+error,log,,,"CPU master group not set.",1415919618217
+error,log,,,"SOPC design not set.",1415919618357
+error,log,,,"CPU module not set.",1415919618357
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415919618357
+error,log,,,"CPU architecture type not set. ",1415919618357
+error,log,,,"CPU master group not set.",1415919618357
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415919624285
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1415919626172
+opened,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1415919628856

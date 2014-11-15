@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415922906477
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415922906530
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1415922916889
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.cut",1415922930594
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1415922932817
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.cut",1415922935940
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1415922938481
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.cut",1415922943727
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1415922945361
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415922951142
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415922951981
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415922953050
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415922953064
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415922958312
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415922960002
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415922963952
+error,log,,,"SOPC design not set.",1415922963991
+error,log,,,"CPU module not set.",1415922963993
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415922963995
+error,log,,,"CPU architecture type not set. ",1415922963995
+error,log,,,"CPU master group not set.",1415922963995
+error,log,,,"SOPC design not set.",1415922964092
+error,log,,,"CPU module not set.",1415922964092
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415922964093
+error,log,,,"CPU architecture type not set. ",1415922964093

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1414682490391
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1414682522349
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1414682524470
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414682527715
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414682528729
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414682528745
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414682560194
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414682579054
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414682580146
+error,log,,,"SOPC design not set.",1414682580193
+error,log,,,"CPU module not set.",1414682580193
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414682580208
+error,log,,,"CPU architecture type not set. ",1414682580208
+error,log,,,"CPU master group not set.",1414682580208
+error,log,,,"Target is broken and needs to be reset",1414682581238
+error,log,,,"SOPC design not set.",1414682581300
+error,log,,,"CPU module not set.",1414682581300
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414682581316
+error,log,,,"CPU architecture type not set. ",1414682581316
+error,log,,,"CPU master group not set.",1414682581316
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414682581331
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414682581331
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414682581363
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414682581363
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414682581472

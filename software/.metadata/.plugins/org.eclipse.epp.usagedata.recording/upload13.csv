@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1414678329293
+error,log,,,"Unhandled event loop exception",1414678355827
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1414678356841
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414678357402
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414678366060
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414678366793
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414678368119
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414678369055
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414678372440
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414678377167
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414678388383
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414678390115
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414678391394
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414678398570
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414678399334
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1414678409786
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1414678410987
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.copy",1414678419318
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1414678420207
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1414678420519
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1414678420831
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1414678421143
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1414678421408
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414678422500
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414678423795

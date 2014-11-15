@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414677850216
+error,log,,,"CPU architecture type not set. ",1414677850231
+error,log,,,"CPU master group not set.",1414677850231
+error,log,,,"Expected base address of system ID component is undefined.",1414677850231
+error,log,,,"Select one of the available target connection paths.",1414677850247
+error,log,,,"sun.awt.X11.XlibWrapper",1414677850652
+error,log,,,"SOPC design not set.",1414677853242
+error,log,,,"CPU module not set.",1414677853242
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414677853258
+error,log,,,"CPU architecture type not set. ",1414677853258
+error,log,,,"CPU master group not set.",1414677853258
+error,log,,,"Expected base address of system ID component is undefined.",1414677853273
+error,log,,,"SOPC design not set.",1414677853273
+error,log,,,"CPU module not set.",1414677853289
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414677853289
+error,log,,,"CPU architecture type not set. ",1414677853289
+error,log,,,"CPU master group not set.",1414677853304
+error,log,,,"Expected base address of system ID component is undefined.",1414677853304
+started,bundle,com.altera.debug.cdi.gdb.plugin,10.1.0.153,"com.altera.debug.cdi.gdb.plugin",1414677854256
+error,log,,,"A project name must be selected.",1414677854365
+error,log,,,"Expected base address of system ID component is undefined.",1414677854381
+error,log,,,"A project name must be selected.",1414677854428
+error,log,,,"A project name must be selected.",1414677854537
+error,log,,,"Expected base address of system ID component is undefined.",1414677854552
+error,log,,,"A project name must be selected.",1414677854568

@@ -1,5 +1,5 @@
 obj/drivers/src/altera_avalon_jtag_uart_ioctl.o:  \
- n:/ECE224/lab2/software/lab2_bsp/drivers/src/altera_avalon_jtag_uart_ioctl.c \
+ c:/ECE224/AudioPlayer/software/lab2_bsp/drivers/src/altera_avalon_jtag_uart_ioctl.c \
   HAL/inc/sys/ioctl.h HAL/inc/alt_types.h \
   drivers/inc/altera_avalon_jtag_uart_regs.h HAL/inc/io.h \
   HAL/inc/alt_types.h drivers/inc/altera_avalon_jtag_uart.h \

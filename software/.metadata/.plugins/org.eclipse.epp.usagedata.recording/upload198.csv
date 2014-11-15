@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1415894262549
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415894265638
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415894270360
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415894280035
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415894282141
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415894283124
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415894283124
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415894290353
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415894292365
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415894296281
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415894298652
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415894299510
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415894299510
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415894349576
+error,log,,,"SOPC design not set.",1415894349606
+error,log,,,"CPU module not set.",1415894349616
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415894349616
+error,log,,,"CPU architecture type not set. ",1415894349626
+error,log,,,"CPU master group not set.",1415894349626
+error,log,,,"SOPC design not set.",1415894349706
+error,log,,,"CPU module not set.",1415894349716
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415894349716
+error,log,,,"CPU architecture type not set. ",1415894349726
+error,log,,,"CPU master group not set.",1415894349726
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1415894349826

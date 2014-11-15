@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414783273140
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414783273145
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414783273250
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414783273256
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414783273362
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414783273368
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414783273473
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414783273479
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414783273584
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414783273590
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414783273695
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414783273701
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414783273807
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414783273812
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414783273918
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414783273923
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414783273929
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414783273934
+error,log,,,"SOPC design not set.",1414783275359
+error,log,,,"CPU module not set.",1414783275365
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414783275370
+error,log,,,"CPU architecture type not set. ",1414783275376
+error,log,,,"CPU master group not set.",1414783275381
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414783275387
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414783275410

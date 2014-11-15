@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680440595
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680475118
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680488144
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680497613
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680502449
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680505554
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680506552
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680518049
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680522439
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680523765
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680523780
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680543140
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680543156
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680547602
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1414680550737
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1414680557586
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1414680559536
+started,bundle,org.eclipse.cdt.managedbuilder.ui,5.1.0.200909110608,"org.eclipse.cdt.managedbuilder.ui",1414680565729
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1414680567102
+error,log,,,"No ELF file path has been selected.",1414680577242
+error,log,,,"Expected base address of system ID component is undefined.",1414680577242
+error,log,,,"No ELF file path has been selected.",1414680577273
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680577288
+error,log,,,"No ELF file path has been selected.",1414680579067
+error,log,,,"Expected base address of system ID component is undefined.",1414680579067

@@ -1,0 +1,154 @@
+#include <stdio.h>
+#include <unistd.h>
+#include "system.h"
+#include "altera_avalon_pio_regs.h"
+#include "altera_avalon_timer_regs.h"
+#include "altera_avalon_timer.h"
+#include "sys/alt_irq.h"
+#include <io.h>
+#include "SD_Card.h"
+#include "fat.h"
+#include "LCD.h"
+#include "basic_io.h"
+#include "Open_I2C.h"
+#include "wm8731.h"
+
+data_file df;
+int cc[5000];
+BYTE buffer[513];
+BYTE dlybuf[88201]={0};
+
+void normal_speed() {
+	// Normal speed
+	for (j = 1; j <= (length_cc * BPB_SecPerClus); j++) {
+		get_rel_sector(&df, buffer, cc, j);
+		i = 1;
+		while (i <= 512) {
+			UINT16 tmp;
+			while (IORD( AUD_FULL_BASE, 0 )) {
+			}
+			tmp = (buffer[i] << 8) | (buffer[i + 1]);
+			IOWR( AUDIO_0_BASE, 0, tmp );
+			i = i + 2;
+		}
+	}
+}
+
+void half_speed() {
+	// Half speed
+	for (j = 1; j <= (length_cc * BPB_SecPerClus); j++) {
+		get_rel_sector(&df, buffer, cc, j);
+		i = 1;
+		while (i <= 512) {
+			UINT16 tmp, replayed;
+			replayed = 0;
+			while (replayed < 2) {
+				while (IORD( AUD_FULL_BASE, 0 )) {
+				}
+				tmp = (buffer[i] << 8) | (buffer[i + 1]);
+				IOWR( AUDIO_0_BASE, 0, tmp );
+				replayed++;
+			}
+			i = i + 2;
+		}
+	}
+}
+
+void double_speed(){
+	// Double speed
+	for (j = 1; j <= (length_cc * BPB_SecPerClus); j++) {
+		get_rel_sector(&df, buffer, cc, j);
+		i = 1;
+		while (i <= 512) {
+			UINT16 tmp;
+			while (IORD( AUD_FULL_BASE, 0 )) {
+			}
+			tmp = (buffer[i] << 8) | (buffer[i + 1]);
+			IOWR( AUDIO_0_BASE, 0, tmp );
+			i = i + 4;
+		}
+	}
+}
+
+void reverse() {
+	// Reverse
+	for (j = (length_cc * BPB_SecPerClus); j >= 0; j--) {
+		get_rel_sector(&df, buffer, cc, j);
+		i = 511;
+		while (i >= 0) {
+			UINT16 tmp;
+			while (IORD( AUD_FULL_BASE, 0 )) {
+			}
+			tmp = (buffer[i] << 8) | (buffer[i + 1]);
+			IOWR( AUDIO_0_BASE, 0, tmp );
+			i = i - 2;
+		}
+	}
+}
+
+void delay() {
+	// Delay 1 second
+	int count = 1;
+	for (j = 1; j <= (length_cc * BPB_SecPerClus); j++) {
+		get_rel_sector(&df, buffer, cc, j);
+		i = 1;
+		while (i <= 512) {
+			UINT16 tmp, dlytmp;
+			tmp = (buffer[i] << 8) | (buffer[i + 1]); // left channel play from buffer
+			while (IORD( AUD_FULL_BASE, 0 )) {
+			}
+			IOWR( AUDIO_0_BASE, 0, tmp );
+
+			dlytmp = (dlybuf[count + 2] << 8) | (dlybuf[count + 3]); // right channel play from dlybuf
+			while (IORD( AUD_FULL_BASE, 0 )) {
+			}
+			IOWR( AUDIO_0_BASE, 0, dlytmp );
+
+			dlybuf[count + 2] = buffer[i + 2]; // assign right channel from buffer to dlybuf
+			dlybuf[count + 3] = buffer[i + 3];
+			i = i + 4;
+			count = count + 4;
+			if(count > 88200)
+				count = 1;
+		}
+	}
+	int remain = 1;
+	while(remain <= 88300){
+		UINT16 dlytmp;
+		while (IORD( AUD_FULL_BASE, 0 )) {
+		}
+		IOWR( AUDIO_0_BASE, 0, 0 );
+		dlytmp = (dlybuf[count + 2] << 8) | (dlybuf[count + 3]); // right channel play from dlybuf
+		while (IORD( AUD_FULL_BASE, 0 )) {
+		}
+		IOWR( AUDIO_0_BASE, 0, dlytmp );
+		count = count + 4;
+		if(count > 88200)
+			count = 1;
+		remain = remain + 4;
+	}
+}
+
+void main() {
+	int length_cc;
+	int i, j;
+
+	printf("SD_card_init() %s\n", SD_card_init() == 0 ? "successful."
+			: "error!");
+	printf("init_mbr() %s\n", init_mbr() == 0 ? "successful." : "error!");
+	printf("init_bs() %s\n", init_bs() == 0 ? "successful." : "error!");
+	info_bs();
+	init_audio_codec();
+
+	file_number = 11; //backward by 2 then next to get back by 1
+	search_for_filetype("WAV", &df, 0, 1);
+
+	//forward search for file type
+	//backward filenumber - 2, search for file
+	length_cc = 1 + ceil(df.FileSize / (BPB_BytsPerSec * BPB_SecPerClus));
+	build_cluster_chain(cc, length_cc, &df);
+
+	printf("length_cc %i\n", length_cc);
+}
+
+

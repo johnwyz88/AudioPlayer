@@ -1,5 +1,5 @@
 obj/HAL/src/alt_flash_dev.o:  \
- n:/ECE224/lab2/software/lab2_bsp/HAL/src/alt_flash_dev.c \
+ c:/ECE224/AudioPlayer/software/lab2_bsp/HAL/src/alt_flash_dev.c \
   HAL/inc/sys/alt_llist.h HAL/inc/alt_types.h HAL/inc/sys/alt_flash_dev.h \
   HAL/inc/sys/alt_flash_types.h HAL/inc/sys/alt_llist.h \
   HAL/inc/priv/alt_dev_llist.h HAL/inc/sys/alt_llist.h \

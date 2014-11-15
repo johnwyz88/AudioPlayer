@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"CPU architecture type not set. ",1414681395764
+error,log,,,"CPU master group not set.",1414681395780
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1414681395858
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1414681399369
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1414681405674
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681411477
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681416625
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1414681417811
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681418653
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681419184
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681420401
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681421945
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.cut",1414681423131
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1414681424831
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681425268
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681426485
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1414681428778
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681429215
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681431305
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681433099
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681434659
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681441757
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681446047
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681447701
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681449089

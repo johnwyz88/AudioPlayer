@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.specification.name,sysinfo,,,"Java Platform API Specification",1414781870976
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1414781870976
+java.specification.version,sysinfo,,,"1.6",1414781870976
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1414781870976
+java.version,sysinfo,,,"1.6.0_14",1414781870976
+java.vm.info,sysinfo,,,"mixed mode",1414781870976
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1414781870976
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1414781870976
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1414781870976
+java.vm.specification.version,sysinfo,,,"1.0",1414781870977
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1414781870977
+java.vm.version,sysinfo,,,"14.0-b16",1414781870977
+started,bundle,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch",1414781871214
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1414782288439
+started,bundle,com.altera.sbtgui.core,10.1.0.153,"com.altera.sbtgui.core",1414782295303
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1414782295318
+started,bundle,org.eclipse.debug.ui,3.5.1.v20090811_r351,"org.eclipse.debug.ui",1414782295958
+started,bundle,org.eclipse.cdt.debug.core,6.0.0.200909110608,"org.eclipse.cdt.debug.core",1414782296192
+started,bundle,org.eclipse.cdt.debug.ui,6.0.0.200909110608,"org.eclipse.cdt.debug.ui",1414782296192
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414782296254
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414782298797
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414782298797
+opened,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1414782298844
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414782331308
+error,log,,,"SOPC design not set.",1414782332868

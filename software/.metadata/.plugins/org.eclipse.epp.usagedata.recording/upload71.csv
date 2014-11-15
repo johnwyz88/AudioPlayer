@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"CPU module not set.",1414683013944
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414683013950
+error,log,,,"CPU architecture type not set. ",1414683013955
+error,log,,,"CPU master group not set.",1414683013961
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414683015023
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1414683019438
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414683020998
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414683025553
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.properties",1414683025553
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1414683028330
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414683046930
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414683047960
+error,log,,,"SOPC design not set.",1414683047991
+error,log,,,"CPU module not set.",1414683047991
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414683048006
+error,log,,,"CPU architecture type not set. ",1414683048006
+error,log,,,"CPU master group not set.",1414683048006
+error,log,,,"Target is broken and needs to be reset",1414683049067
+error,log,,,"SOPC design not set.",1414683049130
+error,log,,,"CPU module not set.",1414683049130
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414683049145
+error,log,,,"CPU architecture type not set. ",1414683049145
+error,log,,,"CPU master group not set.",1414683049145
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1414683050300
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1414683053234

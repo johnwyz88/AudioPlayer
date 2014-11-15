@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"CPU master group not set.",1414783279176
+error,log,,,"CPU master group not set.",1414783279181
+error,log,,,"SOPC design not set.",1414783279199
+error,log,,,"CPU module not set.",1414783279204
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414783279210
+error,log,,,"CPU architecture type not set. ",1414783279216
+error,log,,,"CPU master group not set.",1414783279221
+error,log,,,"SOPC design not set.",1414783279234
+error,log,,,"CPU module not set.",1414783279240
+started,bundle,com.altera.debug.cdi.gdb.plugin,10.1.0.153,"com.altera.debug.cdi.gdb.plugin",1414783279243
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414783279246
+error,log,,,"CPU architecture type not set. ",1414783279251
+error,log,,,"CPU master group not set.",1414783279258
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414783342726
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414783345799
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414783359321
+error,log,,,"SOPC design not set.",1414783360679
+error,log,,,"CPU module not set.",1414783360684
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414783360690
+error,log,,,"CPU architecture type not set. ",1414783360695
+error,log,,,"CPU master group not set.",1414783360700
+error,log,,,"SOPC design not set.",1414783360784
+error,log,,,"CPU module not set.",1414783360790
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414783360795
+error,log,,,"CPU architecture type not set. ",1414783360801

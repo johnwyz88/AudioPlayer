@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1416069081780
+java.vm.specification.version,sysinfo,,,"1.0",1416069081780
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1416069081780
+java.vm.version,sysinfo,,,"14.0-b16",1416069081780
+activated,view,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.views.ProblemView",1416069086772
+started,bundle,org.eclipse.debug.ui,3.5.1.v20090811_r351,"org.eclipse.debug.ui",1416069090251
+started,bundle,org.eclipse.cdt.debug.core,6.0.0.200909110608,"org.eclipse.cdt.debug.core",1416069090485
+started,bundle,org.eclipse.cdt.launch,6.0.0.200909110608,"org.eclipse.cdt.launch",1416069090485
+started,bundle,com.altera.sbtgui.core,10.1.0.153,"com.altera.sbtgui.core",1416069090485
+opened,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1416069090547
+error,log,,,"SOPC design not set.",1416069093885
+error,log,,,"CPU module not set.",1416069093885
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1416069093885
+error,log,,,"CPU architecture type not set. ",1416069093885
+error,log,,,"CPU master group not set.",1416069093885
+error,log,,,"SOPC design not set.",1416069093885
+error,log,,,"CPU module not set.",1416069093885
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1416069093885
+error,log,,,"CPU architecture type not set. ",1416069093885
+error,log,,,"CPU master group not set.",1416069093885
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1416069094166
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1416069094868
+error,log,,,"SOPC design not set.",1416069094899
+error,log,,,"CPU module not set.",1416069094899
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1416069094899

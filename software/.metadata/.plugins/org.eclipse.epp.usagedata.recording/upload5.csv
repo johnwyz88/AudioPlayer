@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414677677382
+started,bundle,org.eclipse.cdt.managedbuilder.gnu.ui,5.0.100.200909110608,"org.eclipse.cdt.managedbuilder.gnu.ui",1414677678536
+started,bundle,org.eclipse.search,3.5.1.r351_v20090708-0800,"org.eclipse.search",1414677691937
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1414677692031
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.buildAll",1414677696570
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414677696882
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414677778377
+started,bundle,org.eclipse.debug.ui,3.5.1.v20090811_r351,"org.eclipse.debug.ui",1414677838531
+started,bundle,org.eclipse.cdt.debug.core,6.0.0.200909110608,"org.eclipse.cdt.debug.core",1414677838593
+started,bundle,org.eclipse.cdt.debug.ui,6.0.0.200909110608,"org.eclipse.cdt.debug.ui",1414677838609
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414677838625
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414677838671
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414677838671
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414677840185
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414677846175
+error,log,,,"SOPC design not set.",1414677849841
+error,log,,,"CPU module not set.",1414677849841
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414677849841
+error,log,,,"CPU architecture type not set. ",1414677849857
+error,log,,,"CPU master group not set.",1414677849857
+error,log,,,"SOPC design not set.",1414677849857
+error,log,,,"CPU module not set.",1414677849872
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414677849872
+error,log,,,"CPU architecture type not set. ",1414677849888
+error,log,,,"CPU master group not set.",1414677849888

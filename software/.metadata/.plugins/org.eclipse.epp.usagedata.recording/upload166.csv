@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"CPU architecture type not set. ",1415889088240
+error,log,,,"CPU master group not set.",1415889088240
+error,log,,,"SOPC design not set.",1415889088334
+error,log,,,"CPU module not set.",1415889088334
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415889088349
+error,log,,,"CPU architecture type not set. ",1415889088349
+error,log,,,"CPU master group not set.",1415889088349
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1415889088443
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1415889091939
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1415889098260
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1415889125498
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1415889144548
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415889156700
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415889159539
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415889161146
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415889162082
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415889162098
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415889193750
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415889211175
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415889212298
+error,log,,,"SOPC design not set.",1415889212330
+error,log,,,"CPU module not set.",1415889212330
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415889212345
+error,log,,,"CPU architecture type not set. ",1415889212345
+error,log,,,"CPU master group not set.",1415889212345

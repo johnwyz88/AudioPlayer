@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415920508399
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415920514109
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415920514452
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415920514795
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415920515232
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415920518337
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415920533968
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920538710
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920539942
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920539942
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920545137
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920549552
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920550207
+error,log,,,"SOPC design not set.",1415920550269
+error,log,,,"CPU module not set.",1415920550269
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415920550269
+error,log,,,"CPU architecture type not set. ",1415920550269
+error,log,,,"CPU master group not set.",1415920550269
+error,log,,,"SOPC design not set.",1415920550394
+error,log,,,"CPU module not set.",1415920550394
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415920550394
+error,log,,,"CPU architecture type not set. ",1415920550394
+error,log,,,"CPU master group not set.",1415920550394
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1415920551564
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1415920553577

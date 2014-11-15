@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920965085
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.copy",1415920979561
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1415920981645
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415920989623
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.copy",1415920991144
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415920994404
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1415920997278
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415921003588
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1415921006028
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415921010040
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1415921013530
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415921013985
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1415921014428
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415921019703
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415921020870
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415921022135
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415921022148
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415921027562
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415921031967
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415921032133
+opened,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1415921032252
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1415921032289
+error,log,,,"SOPC design not set.",1415921032960
+error,log,,,"CPU module not set.",1415921032962
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415921032964

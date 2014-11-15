@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414682966117
+error,log,,,"CPU architecture type not set. ",1414682966117
+error,log,,,"CPU master group not set.",1414682966133
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1414682966133
+error,log,,,"Target is broken and needs to be reset",1414682967162
+error,log,,,"SOPC design not set.",1414682967225
+error,log,,,"CPU module not set.",1414682967225
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414682967240
+error,log,,,"CPU architecture type not set. ",1414682967240
+error,log,,,"CPU master group not set.",1414682967240
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1414682967693
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1414682968410
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1414682970938
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1414682970938
+error,log,,,"Failed Executing: [nios2-download, '--cable=USB-Blaster on localhost [USB-0]', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=0x0] return code: 4, 'other error'",1414682972470
+error,log,,,"Failed Executing: [nios2-download, '--cable=USB-Blaster on localhost [USB-0]', --device=1, --instance=0, --go, --accept-bad-sysid, --sidp=0x0, /cygdrive/n/ECE224/lab2/software/lab2/lab2.elf] return code: 4, 'other error'",1414682977418
+error,log,,,"Downloading ELF Process failed",1414682977418
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414682977433
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414682982784
+activated,view,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.views.ProblemView",1414682983907
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1414682990948
+error,log,,,"SOPC design not set.",1414682996158
+error,log,,,"CPU module not set.",1414682996158
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414682996174
+error,log,,,"CPU architecture type not set. ",1414682996174

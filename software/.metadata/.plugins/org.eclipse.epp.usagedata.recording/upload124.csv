@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1414784234497
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1414784234497
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1414784234497
+java.vm.specification.version,sysinfo,,,"1.0",1414784234497
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1414784234497
+java.vm.version,sysinfo,,,"14.0-b16",1414784234497
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414784264220
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414784265082
+closed,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414784265174
+started,bundle,com.altera.sbtgui.core,10.1.0.153,"com.altera.sbtgui.core",1414784265475
+error,log,,,"The proxied handler for 'com.altera.sbtgui.project.commands.SystemConsoleHandler' could not be loaded",1414784265486
+error,log,,,"The proxied handler for 'com.altera.sbtgui.project.commands.SystemConsoleHandler' could not be loaded",1414784265496
+stopped,bundle,org.eclipse.cdt.debug.mi.ui,6.0.0.200909110608,"org.eclipse.cdt.debug.mi.ui",1414784265526
+stopped,bundle,com.altera.debug.cdi.gdb.plugin,10.1.0.153,"com.altera.debug.cdi.gdb.plugin",1414784265527
+stopped,bundle,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch",1414784265536
+stopped,bundle,org.eclipse.cdt.debug.mi.core,6.0.0.200909110608,"org.eclipse.cdt.debug.mi.core",1414784265536
+stopped,bundle,org.eclipse.cdt.dsf.gdb.ui,2.0.0.200909110608,"org.eclipse.cdt.dsf.gdb.ui",1414784265537
+stopped,bundle,org.eclipse.cdt.dsf.ui,2.0.1.200909110608,"org.eclipse.cdt.dsf.ui",1414784265538
+stopped,bundle,com.altera.sbtgui.ui,10.1.0.153,"com.altera.sbtgui.ui",1414784265538
+stopped,bundle,com.altera.sbtgui.project,10.1.0.153,"com.altera.sbtgui.project",1414784265538
+stopped,bundle,org.eclipse.cdt.launch,6.0.0.200909110608,"org.eclipse.cdt.launch",1414784265539
+stopped,bundle,org.eclipse.cdt.debug.ui,6.0.0.200909110608,"org.eclipse.cdt.debug.ui",1414784265539
+stopped,bundle,org.eclipse.cdt.dsf.gdb,2.0.0.200909110608,"org.eclipse.cdt.dsf.gdb",1414784265540
+stopped,bundle,org.eclipse.cdt.dsf,2.0.0.200909110608,"org.eclipse.cdt.dsf",1414784265540
+stopped,bundle,org.eclipse.cdt.debug.core,6.0.0.200909110608,"org.eclipse.cdt.debug.core",1414784265541

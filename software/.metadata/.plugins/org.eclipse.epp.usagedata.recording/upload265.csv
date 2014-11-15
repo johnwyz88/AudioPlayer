@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415921390931
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415921391109
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415921391492
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415921391700
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415921392378
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415921392390
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.copy",1415921406665
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1415921409292
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.copy",1415921415000
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415921415972
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415921417844
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1415921421467
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415921423752
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415921427968
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415921428937
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415921428951
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415921434353
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415921438683
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415921439544
+error,log,,,"SOPC design not set.",1415921439578
+error,log,,,"CPU module not set.",1415921439580
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415921439582
+error,log,,,"CPU architecture type not set. ",1415921439584
+error,log,,,"CPU master group not set.",1415921439584
+error,log,,,"SOPC design not set.",1415921439717

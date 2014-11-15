@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"No ELF file path has been selected.",1414680579098
+error,log,,,"No ELF file path has been selected.",1414680580221
+error,log,,,"Expected base address of system ID component is undefined.",1414680580237
+error,log,,,"SOPC design not set.",1414680583232
+error,log,,,"CPU module not set.",1414680583232
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414680583232
+error,log,,,"CPU architecture type not set. ",1414680583248
+error,log,,,"CPU master group not set.",1414680583248
+error,log,,,"Expected base address of system ID component is undefined.",1414680583263
+error,log,,,"No ELF file path has been selected.",1414680583263
+error,log,,,"Expected base address of system ID component is undefined.",1414680583279
+error,log,,,"No ELF file path has been selected.",1414680583294
+error,log,,,"No ELF file path has been selected.",1414680584948
+error,log,,,"Expected base address of system ID component is undefined.",1414680584948
+error,log,,,"No ELF file path has been selected.",1414680586009
+error,log,,,"Expected base address of system ID component is undefined.",1414680586024
+error,log,,,"No ELF file path has been selected.",1414680586040
+error,log,,,"No ELF file path has been selected.",1414680588021
+error,log,,,"Expected base address of system ID component is undefined.",1414680588037
+error,log,,,"No ELF file path has been selected.",1414680588052
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680589113
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1414680589784
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680594698
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680596211
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.buildProject",1414680600142

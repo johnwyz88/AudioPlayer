@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415895699073
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1415895717606
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1415895728385
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1415895728557
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415895733393
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415895740725
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.copy",1415895742909
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1415895744531
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1415895748556
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415895752971
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.cut",1415895790176
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1415895791175
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415895796978
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415895806961
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415895807804
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415895807819
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415895840826
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415895843073
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415895845163
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415895859858
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415895861044
+error,log,,,"SOPC design not set.",1415895861075
+error,log,,,"CPU module not set.",1415895861075
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415895861090
+error,log,,,"CPU architecture type not set. ",1415895861090

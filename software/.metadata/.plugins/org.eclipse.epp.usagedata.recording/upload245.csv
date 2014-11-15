@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"CPU architecture type not set. ",1415919912692
+error,log,,,"CPU master group not set.",1415919912692
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415919912770
+error,log,,,"SOPC design not set.",1415919912786
+error,log,,,"CPU module not set.",1415919912786
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415919912786
+error,log,,,"CPU architecture type not set. ",1415919912786
+error,log,,,"CPU master group not set.",1415919912786
+error,log,,,"No ELF file path has been selected.",1415919914096
+error,log,,,"No ELF file path has been selected.",1415919914112
+error,log,,,"No ELF file path has been selected.",1415919914128
+error,log,,,"No ELF file path has been selected.",1415919914143
+error,log,,,"No ELF file path has been selected.",1415919914143
+error,log,,,"No ELF file path has been selected.",1415919914174
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415919919587
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1415919925983
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1415919927137
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1415919930990
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1415919931646
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.buildProject",1415919933611
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415919933908
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415919936076
+activated,view,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.views.ProblemView",1415919936216
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415919939898
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415919943486

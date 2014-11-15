@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"CPU module not set.",1414785287907
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414785287913
+error,log,,,"CPU architecture type not set. ",1414785287919
+error,log,,,"CPU master group not set.",1414785287924
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1414785288020
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1414785291756
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1414785298702
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1414785330248
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1414785331796
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1414785372247
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414785390972
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414785391772
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414785391785
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414785424153
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414785441979
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414785443281
+error,log,,,"SOPC design not set.",1414785443321
+error,log,,,"CPU module not set.",1414785443326
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414785443332
+error,log,,,"CPU architecture type not set. ",1414785443337
+error,log,,,"CPU master group not set.",1414785443342
+error,log,,,"SOPC design not set.",1414785443429
+error,log,,,"CPU module not set.",1414785443435
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414785443441
+error,log,,,"CPU architecture type not set. ",1414785443446

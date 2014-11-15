@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415922708691
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415922713032
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415922713922
+error,log,,,"SOPC design not set.",1415922713964
+error,log,,,"CPU module not set.",1415922713965
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415922713967
+error,log,,,"CPU architecture type not set. ",1415922713967
+error,log,,,"CPU master group not set.",1415922713967
+error,log,,,"SOPC design not set.",1415922714064
+error,log,,,"CPU module not set.",1415922714064
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415922714065
+error,log,,,"CPU architecture type not set. ",1415922714065
+error,log,,,"CPU master group not set.",1415922714065
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1415922714177
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1415922717450
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1415922723367
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1415922792734
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.copy",1415922825954
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1415922830391
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1415922834518
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1415922834723
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1415922835027
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1415922835347
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1415922835491
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1415922835683

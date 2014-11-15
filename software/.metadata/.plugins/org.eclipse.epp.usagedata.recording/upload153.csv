@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Connected system timestamp not found on target at expected base address.",1415885663973
+error,log,,,"Connected system ID hash not found on target at expected base address.",1415885664082
+error,log,,,"Connected system timestamp not found on target at expected base address.",1415885664082
+error,log,,,"Connected system ID hash not found on target at expected base address.",1415885664192
+error,log,,,"Connected system timestamp not found on target at expected base address.",1415885664192
+error,log,,,"Connected system ID hash not found on target at expected base address.",1415885664301
+error,log,,,"Connected system timestamp not found on target at expected base address.",1415885664301
+error,log,,,"Connected system ID hash not found on target at expected base address.",1415885664410
+error,log,,,"Connected system timestamp not found on target at expected base address.",1415885664410
+error,log,,,"Connected system ID hash not found on target at expected base address.",1415885664426
+error,log,,,"Connected system timestamp not found on target at expected base address.",1415885664426
+error,log,,,"SOPC design not set.",1415885664488
+error,log,,,"CPU module not set.",1415885664504
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415885664504
+error,log,,,"CPU architecture type not set. ",1415885664504
+error,log,,,"CPU master group not set.",1415885664519
+error,log,,,"Connected system ID hash not found on target at expected base address.",1415885664519
+error,log,,,"Connected system timestamp not found on target at expected base address.",1415885664519
+error,log,,,"SOPC design not set.",1415885664535
+error,log,,,"CPU module not set.",1415885664535
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415885664550
+error,log,,,"CPU architecture type not set. ",1415885664550
+error,log,,,"CPU master group not set.",1415885664550
+error,log,,,"Expected base address of system ID component is undefined.",1415885664566
+error,log,,,"SOPC design not set.",1415885664566

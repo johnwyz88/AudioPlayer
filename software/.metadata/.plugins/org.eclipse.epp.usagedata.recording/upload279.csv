@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415923238103
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415923239086
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415923239774
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415923240771
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415923263660
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415923273081
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415923274289
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415923274303
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415923279765
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415923284210
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415923285054
+error,log,,,"SOPC design not set.",1415923285078
+error,log,,,"CPU module not set.",1415923285083
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415923285085
+error,log,,,"CPU architecture type not set. ",1415923285088
+error,log,,,"CPU master group not set.",1415923285088
+error,log,,,"SOPC design not set.",1415923285187
+error,log,,,"CPU module not set.",1415923285187
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415923285188
+error,log,,,"CPU architecture type not set. ",1415923285188
+error,log,,,"CPU master group not set.",1415923285188
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1415923285303
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1415923288602
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1415923291157
+opened,view,org.eclipse.ui.views,3.4.1.M20090826-0800,"org.eclipse.ui.views.PropertySheet",1415923300237

@@ -1,5 +1,5 @@
 obj/drivers/src/altera_avalon_lcd_16207.o:  \
- n:/ECE224/lab2/software/lab2_bsp/drivers/src/altera_avalon_lcd_16207.c \
+ c:/ECE224/AudioPlayer/software/lab2_bsp/drivers/src/altera_avalon_lcd_16207.c \
   HAL/inc/sys/alt_alarm.h HAL/inc/sys/alt_llist.h HAL/inc/alt_types.h \
   HAL/inc/priv/alt_alarm.h HAL/inc/alt_types.h \
   drivers/inc/altera_avalon_lcd_16207_regs.h HAL/inc/io.h \

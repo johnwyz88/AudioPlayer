@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"The proxied handler for 'com.altera.sbtgui.project.commands.SystemConsoleHandler' could not be loaded",1414786122793
+error,log,,,"The proxied handler for 'com.altera.sbtgui.project.commands.SystemConsoleHandler' could not be loaded",1414786122802
+stopped,bundle,org.eclipse.cdt.debug.mi.ui,6.0.0.200909110608,"org.eclipse.cdt.debug.mi.ui",1414786122841
+stopped,bundle,com.altera.debug.cdi.gdb.plugin,10.1.0.153,"com.altera.debug.cdi.gdb.plugin",1414786122841
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.debug.core"".",1414786122934
+error,log,,,"An exception occurred while dispatching debug events.",1414786122944
+stopped,bundle,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch",1414786123841
+stopped,bundle,org.eclipse.cdt.debug.mi.core,6.0.0.200909110608,"org.eclipse.cdt.debug.mi.core",1414786123841
+stopped,bundle,org.eclipse.cdt.dsf.gdb.ui,2.0.0.200909110608,"org.eclipse.cdt.dsf.gdb.ui",1414786123842
+stopped,bundle,org.eclipse.cdt.dsf.ui,2.0.1.200909110608,"org.eclipse.cdt.dsf.ui",1414786123843
+stopped,bundle,com.altera.sbtgui.ui,10.1.0.153,"com.altera.sbtgui.ui",1414786123843
+stopped,bundle,com.altera.sbtgui.project,10.1.0.153,"com.altera.sbtgui.project",1414786123843
+stopped,bundle,org.eclipse.cdt.launch,6.0.0.200909110608,"org.eclipse.cdt.launch",1414786123843
+stopped,bundle,org.eclipse.cdt.debug.ui,6.0.0.200909110608,"org.eclipse.cdt.debug.ui",1414786123843
+stopped,bundle,org.eclipse.cdt.dsf.gdb,2.0.0.200909110608,"org.eclipse.cdt.dsf.gdb",1414786123844
+stopped,bundle,org.eclipse.cdt.dsf,2.0.0.200909110608,"org.eclipse.cdt.dsf",1414786123844
+stopped,bundle,org.eclipse.cdt.debug.core,6.0.0.200909110608,"org.eclipse.cdt.debug.core",1414786123845
+stopped,bundle,org.eclipse.cdt.managedbuilder.ui,5.1.0.200909110608,"org.eclipse.cdt.managedbuilder.ui",1414786123845
+stopped,bundle,org.eclipse.cdt.make.ui,6.0.1.200909110608,"org.eclipse.cdt.make.ui",1414786123845
+stopped,bundle,org.eclipse.cdt.managedbuilder.gnu.ui,5.0.100.200909110608,"org.eclipse.cdt.managedbuilder.gnu.ui",1414786123845
+stopped,bundle,org.eclipse.cdt.managedbuilder.core,6.0.0.200909110608,"org.eclipse.cdt.managedbuilder.core",1414786123845
+stopped,bundle,org.eclipse.cdt.make.core,6.0.0.200909110608,"org.eclipse.cdt.make.core",1414786123845
+stopped,bundle,org.eclipse.cdt.mylyn.ui,1.0.100.200909110608,"org.eclipse.cdt.mylyn.ui",1414786123846
+stopped,bundle,com.altera.sbtgui.flash.plugin,10.1.0.153,"com.altera.sbtgui.flash.plugin",1414786123846
+stopped,bundle,com.altera.sbtgui.gprof,10.1.0.153,"com.altera.sbtgui.gprof",1414786123846

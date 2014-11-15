@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"No ELF file path has been selected.",1415919406154
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1415919406154
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1415919406154
+error,log,,,"No ELF file path has been selected.",1415919406186
+error,log,,,"No ELF file path has been selected.",1415919406186
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1415919406186
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1415919406186
+error,log,,,"No ELF file path has been selected.",1415919406201
+error,log,,,"No ELF file path has been selected.",1415919409929
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1415919409929
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1415919409929
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415919414235
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415919414984
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415919416169
+closed,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415919416388
+error,log,,,"The proxied handler for 'com.altera.sbtgui.project.commands.SystemConsoleHandler' could not be loaded",1415919416513
+error,log,,,"The proxied handler for 'com.altera.sbtgui.project.commands.SystemConsoleHandler' could not be loaded",1415919416513
+stopped,bundle,org.eclipse.cdt.debug.mi.ui,6.0.0.200909110608,"org.eclipse.cdt.debug.mi.ui",1415919416544
+stopped,bundle,com.altera.debug.cdi.gdb.plugin,10.1.0.153,"com.altera.debug.cdi.gdb.plugin",1415919416544
+stopped,bundle,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch",1415919416544
+stopped,bundle,org.eclipse.cdt.debug.mi.core,6.0.0.200909110608,"org.eclipse.cdt.debug.mi.core",1415919416544
+stopped,bundle,org.eclipse.cdt.dsf.gdb.ui,2.0.0.200909110608,"org.eclipse.cdt.dsf.gdb.ui",1415919416544
+stopped,bundle,org.eclipse.cdt.dsf.ui,2.0.1.200909110608,"org.eclipse.cdt.dsf.ui",1415919416544
+stopped,bundle,com.altera.sbtgui.ui,10.1.0.153,"com.altera.sbtgui.ui",1415919416544
+stopped,bundle,com.altera.sbtgui.project,10.1.0.153,"com.altera.sbtgui.project",1415919416544

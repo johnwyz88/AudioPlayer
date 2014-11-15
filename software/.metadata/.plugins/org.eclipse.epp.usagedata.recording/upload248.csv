@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"CPU master group not set.",1415919951956
+error,log,,,"SOPC design not set.",1415919951956
+error,log,,,"CPU module not set.",1415919951956
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415919951956
+error,log,,,"CPU architecture type not set. ",1415919951956
+error,log,,,"CPU master group not set.",1415919951956
+error,log,,,"SOPC design not set.",1415919951987
+error,log,,,"CPU module not set.",1415919951987
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415919951987
+error,log,,,"CPU architecture type not set. ",1415919951987
+error,log,,,"CPU master group not set.",1415919951987
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415919952034
+error,log,,,"SOPC design not set.",1415919952112
+error,log,,,"CPU module not set.",1415919952112
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415919952112
+error,log,,,"CPU architecture type not set. ",1415919952112
+error,log,,,"CPU master group not set.",1415919952112
+error,log,,,"No ELF file path has been selected.",1415919954156
+error,log,,,"No ELF file path has been selected.",1415919954187
+error,log,,,"No ELF file path has been selected.",1415919954202
+error,log,,,"No ELF file path has been selected.",1415919954218
+error,log,,,"SOPC design not set.",1415919955216
+error,log,,,"CPU module not set.",1415919955216
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415919955216
+error,log,,,"CPU architecture type not set. ",1415919955216

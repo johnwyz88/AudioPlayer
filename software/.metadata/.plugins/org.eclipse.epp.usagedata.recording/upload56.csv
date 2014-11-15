@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Failed Executing: [nios2-download, '--cable=USB-Blaster on localhost [USB-0]', --device=1, --instance=0, --stop, --accept-bad-sysid, --sidp=0x0] return code: 4, 'other error'",1414682643831
+error,log,,,"Failed Executing: [nios2-download, '--cable=USB-Blaster on localhost [USB-0]', --device=1, --instance=0, --go, --accept-bad-sysid, --sidp=0x0, /cygdrive/n/ECE224/lab2/software/lab2/lab2.elf] return code: 4, 'other error'",1414682648544
+error,log,,,"Downloading ELF Process failed",1414682648544
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414682648560
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414682651025
+activated,view,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.views.ProblemView",1414682658435
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.buildAll",1414682662958
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414682663255
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414682693857
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1414682785190
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1414682785315
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1414682786375
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1414682812115
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414682813878
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414682814754
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414682814770
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414682865166
+error,log,,,"SOPC design not set.",1414682865213
+error,log,,,"CPU module not set.",1414682865213
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414682865228
+error,log,,,"CPU architecture type not set. ",1414682865228
+error,log,,,"CPU master group not set.",1414682865228
+error,log,,,"Target is broken and needs to be reset",1414682866273
+error,log,,,"SOPC design not set.",1414682866336
+error,log,,,"CPU module not set.",1414682866351

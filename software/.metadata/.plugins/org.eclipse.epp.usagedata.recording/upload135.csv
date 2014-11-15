@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"CPU master group not set.",1414785443452
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1414785443543
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1414785447261
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1414785454092
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1414785470145
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1414785488327
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414785493213
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414785494069
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414785494082
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414785525447
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414785544149
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414785545519
+error,log,,,"SOPC design not set.",1414785545558
+error,log,,,"CPU module not set.",1414785545563
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414785545569
+error,log,,,"CPU architecture type not set. ",1414785545574
+error,log,,,"CPU master group not set.",1414785545579
+error,log,,,"SOPC design not set.",1414785545666
+error,log,,,"CPU module not set.",1414785545671
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414785545677
+error,log,,,"CPU architecture type not set. ",1414785545682
+error,log,,,"CPU master group not set.",1414785545688
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1414785545778
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.copy",1414785549079
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1414785549505

@@ -35,45 +35,45 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, READONLY, DEBUGGING
   8 .debug_pubnames 000014c6  00000000  00000000  00015380  2**0
                   CONTENTS, READONLY, DEBUGGING
-  9 .debug_info   00024898  00000000  00000000  00016846  2**0
+  9 .debug_info   00024b0e  00000000  00000000  00016846  2**0
                   CONTENTS, READONLY, DEBUGGING
- 10 .debug_abbrev 00008121  00000000  00000000  0003b0de  2**0
+ 10 .debug_abbrev 00008121  00000000  00000000  0003b354  2**0
                   CONTENTS, READONLY, DEBUGGING
- 11 .debug_line   00015127  00000000  00000000  000431ff  2**0
+ 11 .debug_line   00015270  00000000  00000000  00043475  2**0
                   CONTENTS, READONLY, DEBUGGING
- 12 .debug_frame  00001aa0  00000000  00000000  00058328  2**2
+ 12 .debug_frame  00001aa0  00000000  00000000  000586e8  2**2
                   CONTENTS, READONLY, DEBUGGING
- 13 .debug_str    000024b4  00000000  00000000  00059dc8  2**0
+ 13 .debug_str    000024b4  00000000  00000000  0005a188  2**0
                   CONTENTS, READONLY, DEBUGGING
- 14 .debug_loc    0000c47a  00000000  00000000  0005c27c  2**0
+ 14 .debug_loc    0000c47a  00000000  00000000  0005c63c  2**0
                   CONTENTS, READONLY, DEBUGGING
- 15 .debug_alt_sim_info 00000050  00000000  00000000  000686f8  2**2
+ 15 .debug_alt_sim_info 00000050  00000000  00000000  00068ab8  2**2
                   CONTENTS, READONLY, DEBUGGING
- 16 .debug_ranges 000009e0  00000000  00000000  00068748  2**3
+ 16 .debug_ranges 000009e0  00000000  00000000  00068b08  2**3
                   CONTENTS, READONLY, DEBUGGING
- 17 .thread_model 00000003  00000000  00000000  0006d0e7  2**0
+ 17 .thread_model 00000003  00000000  00000000  0006d4a7  2**0
                   CONTENTS, READONLY
- 18 .cpu          00000005  00000000  00000000  0006d0ea  2**0
+ 18 .cpu          00000005  00000000  00000000  0006d4aa  2**0
                   CONTENTS, READONLY
- 19 .simulation_enabled 00000001  00000000  00000000  0006d0ef  2**0
+ 19 .simulation_enabled 00000001  00000000  00000000  0006d4af  2**0
                   CONTENTS, READONLY
- 20 .sysid_hash   00000004  00000000  00000000  0006d0f0  2**0
+ 20 .sysid_hash   00000004  00000000  00000000  0006d4b0  2**0
                   CONTENTS, READONLY
- 21 .sysid_base   00000004  00000000  00000000  0006d0f4  2**0
+ 21 .sysid_base   00000004  00000000  00000000  0006d4b4  2**0
                   CONTENTS, READONLY
- 22 .sysid_time   00000004  00000000  00000000  0006d0f8  2**0
+ 22 .sysid_time   00000004  00000000  00000000  0006d4b8  2**0
                   CONTENTS, READONLY
- 23 .stderr_dev   0000000b  00000000  00000000  0006d0fc  2**0
+ 23 .stderr_dev   0000000b  00000000  00000000  0006d4bc  2**0
                   CONTENTS, READONLY
- 24 .stdin_dev    0000000b  00000000  00000000  0006d107  2**0
+ 24 .stdin_dev    0000000b  00000000  00000000  0006d4c7  2**0
                   CONTENTS, READONLY
- 25 .stdout_dev   0000000b  00000000  00000000  0006d112  2**0
+ 25 .stdout_dev   0000000b  00000000  00000000  0006d4d2  2**0
                   CONTENTS, READONLY
- 26 .sopc_system_name 0000000d  00000000  00000000  0006d11d  2**0
+ 26 .sopc_system_name 0000000d  00000000  00000000  0006d4dd  2**0
                   CONTENTS, READONLY
- 27 .quartus_project_dir 0000000e  00000000  00000000  0006d12a  2**0
+ 27 .quartus_project_dir 00000015  00000000  00000000  0006d4ea  2**0
                   CONTENTS, READONLY
- 28 .jdi          00004111  00000000  00000000  0006d138  2**0
+ 28 .jdi          00004111  00000000  00000000  0006d4ff  2**0
                   CONTENTS, READONLY
 SYMBOL TABLE:
 02000000 l    d  .entry	00000000 .entry
@@ -637,7 +637,7 @@ Disassembly of section .entry:
  2000014:	08406d14 	ori	at,at,436
     jmp r1
  2000018:	0800683a 	jmp	at
- 200001c:	00000000 	call	0 <__reset-0x2000000>
+ 200001c:	00000000 	call	0 <__alt_mem_sdram_0-0x2000000>
 
 Disassembly of section .exceptions:
 
@@ -5960,7 +5960,7 @@ alt_after_alt_main:
  2004d48:	02004e28 	cmpgeui	r8,zero,312
  2004d4c:	02004e28 	cmpgeui	r8,zero,312
  2004d50:	02004e28 	cmpgeui	r8,zero,312
- 2004d54:	02005480 	call	200548 <__reset-0x1dffab8>
+ 2004d54:	02005480 	call	200548 <__alt_mem_sdram_0-0x1dffab8>
  2004d58:	02005aec 	andhi	r8,zero,363
  2004d5c:	02004e28 	cmpgeui	r8,zero,312
  2004d60:	02005aec 	andhi	r8,zero,363
@@ -5977,7 +5977,7 @@ alt_after_alt_main:
  2004d8c:	02004e28 	cmpgeui	r8,zero,312
  2004d90:	02004e28 	cmpgeui	r8,zero,312
  2004d94:	02004e28 	cmpgeui	r8,zero,312
- 2004d98:	02005580 	call	200558 <__reset-0x1dffaa8>
+ 2004d98:	02005580 	call	200558 <__alt_mem_sdram_0-0x1dffaa8>
  2004d9c:	02004e28 	cmpgeui	r8,zero,312
  2004da0:	02004e28 	cmpgeui	r8,zero,312
  2004da4:	02005ba0 	cmpeqi	r8,zero,366
@@ -6003,7 +6003,7 @@ alt_after_alt_main:
  2004df4:	02005a60 	cmpeqi	r8,zero,361
  2004df8:	02004e28 	cmpgeui	r8,zero,312
  2004dfc:	02005a30 	cmpltui	r8,zero,360
- 2004e00:	02005540 	call	200554 <__reset-0x1dffaac>
+ 2004e00:	02005540 	call	200554 <__alt_mem_sdram_0-0x1dffaac>
  2004e04:	02005a90 	cmplti	r8,zero,362
  2004e08:	02005a7c 	xorhi	r8,zero,361
  2004e0c:	02004e28 	cmpgeui	r8,zero,312
@@ -21178,7 +21178,7 @@ void alt_icache_flush (void* start, alt_u32 len)
  2010f34:	20000726 	beq	r4,zero,2010f54 <__call_exitprocs+0x1a0>
  2010f38:	b9000015 	stw	r4,0(r23)
  2010f3c:	8809883a 	mov	r4,r17
- 2010f40:	00000000 	call	0 <__reset-0x2000000>
+ 2010f40:	00000000 	call	0 <__alt_mem_sdram_0-0x2000000>
  2010f44:	bc400017 	ldw	r17,0(r23)
  2010f48:	883fb71e 	bne	r17,zero,2010e28 <__call_exitprocs+0x74>
  2010f4c:	003fc506 	br	2010e64 <__call_exitprocs+0xb0>
@@ -21252,13 +21252,13 @@ void ALT_EXIT (int exit_code)
   while (1);
  2010fc0:	003fff06 	br	2010fc0 <_exit+0x1c>
  2010fc4:	00000010 	cmplti	zero,zero,0
- 2010fc8:	00000000 	call	0 <__reset-0x2000000>
- 2010fcc:	00527a01 	jmpi	527a0 <__reset-0x1fad860>
- 2010fd0:	011f7c01 	jmpi	11f7c0 <__reset-0x1ee0840>
+ 2010fc8:	00000000 	call	0 <__alt_mem_sdram_0-0x2000000>
+ 2010fcc:	00527a01 	jmpi	527a0 <__alt_mem_sdram_0-0x1fad860>
+ 2010fd0:	011f7c01 	jmpi	11f7c0 <__alt_mem_sdram_0-0x1ee0840>
  2010fd4:	001b0c0b 	ldhu	zero,27696(zero)
  2010fd8:	00000028 	cmpgeui	zero,zero,0
  2010fdc:	00000018 	cmpnei	zero,zero,0
- 2010fe0:	0200bb80 	call	200bb8 <__reset-0x1dff448>
+ 2010fe0:	0200bb80 	call	200bb8 <__alt_mem_sdram_0-0x1dff448>
  2010fe4:	0000066c 	andhi	zero,zero,25
  2010fe8:	3c0e4400 	call	3c0e440 <__alt_data_end+0x140e440>
  2010fec:	910a9074 	orhi	r4,r18,10817

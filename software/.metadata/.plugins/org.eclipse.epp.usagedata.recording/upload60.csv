@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"SOPC design not set.",1414682922428
+error,log,,,"CPU module not set.",1414682922428
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414682922444
+error,log,,,"CPU architecture type not set. ",1414682922444
+error,log,,,"CPU master group not set.",1414682922444
+error,log,,,"SOPC design not set.",1414682926999
+error,log,,,"CPU module not set.",1414682926999
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414682927015
+error,log,,,"CPU architecture type not set. ",1414682927015
+error,log,,,"CPU master group not set.",1414682927015
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414682927030
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414682927046
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414682927093
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414682930291
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414682930337
+error,log,,,"SOPC design not set.",1414682931429
+error,log,,,"CPU module not set.",1414682931429
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414682931445
+error,log,,,"CPU architecture type not set. ",1414682931445
+error,log,,,"CPU master group not set.",1414682931461
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414682932521
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414682956129
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414682966070
+error,log,,,"SOPC design not set.",1414682966102
+error,log,,,"CPU module not set.",1414682966102

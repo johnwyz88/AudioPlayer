@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1414680382730
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1414680390748
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1414680391793
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1414680395210
+started,bundle,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring",1414680397316
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680397394
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680401028
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1414680401028
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1414680401028
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680402947
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680406800
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1414680406800
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1414680406800
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1414680407284
+error,log,,,"Project BoardTest does not exist. Please check that your launch configuration specifies a valid project in your workspace.",1414680412151
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680412198
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414680413196
+error,log,,,"SOPC design not set.",1414680416769
+error,log,,,"CPU module not set.",1414680416769
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414680416769
+error,log,,,"CPU architecture type not set. ",1414680416784
+error,log,,,"CPU master group not set.",1414680416784
+error,log,,,"SOPC design not set.",1414680416784
+error,log,,,"CPU module not set.",1414680416800
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414680416800

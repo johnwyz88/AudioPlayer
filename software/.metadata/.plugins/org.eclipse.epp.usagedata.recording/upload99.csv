@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414763835029
+error,log,,,"CPU module not set.",1414763835029
+error,log,,,"CPU architecture type not set. ",1414763835029
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414763835044
+error,log,,,"CPU master group not set.",1414763835044
+error,log,,,"CPU architecture type not set. ",1414763835044
+error,log,,,"System timestamp mismatch - connected: ""1414673098"", expected: ""Not Found"".",1414763835060
+error,log,,,"CPU master group not set.",1414763835060
+error,log,,,"SOPC design not set.",1414763835076
+error,log,,,"CPU module not set.",1414763835076
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414763835076
+error,log,,,"CPU architecture type not set. ",1414763835091
+error,log,,,"CPU master group not set.",1414763835091
+error,log,,,"SOPC design not set.",1414763835138
+error,log,,,"CPU module not set.",1414763835138
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414763835154
+error,log,,,"CPU architecture type not set. ",1414763835154
+error,log,,,"CPU master group not set.",1414763835154
+error,log,,,"SOPC design not set.",1414763835278
+error,log,,,"CPU module not set.",1414763835278
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414763835294
+error,log,,,"CPU architecture type not set. ",1414763835294
+error,log,,,"CPU master group not set.",1414763835294
+opened,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1414763837447
+error,log,,,"sun.awt.X11.XlibWrapper",1414763837774

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.editors",1415919247302
+started,bundle,org.eclipse.ui.forms,3.4.1.v20090714_35x,"org.eclipse.ui.forms",1415919247302
+started,bundle,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.ide",1415919247302
+started,bundle,org.eclipse.ui.intro,3.3.1.v20090805_35x,"org.eclipse.ui.intro",1415919247302
+started,bundle,org.eclipse.ui.intro.universal,3.2.300.v20090526,"org.eclipse.ui.intro.universal",1415919247302
+started,bundle,org.eclipse.ui.navigator,3.4.1.M20090911-1550,"org.eclipse.ui.navigator",1415919247302
+started,bundle,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.resources",1415919247302
+started,bundle,org.eclipse.ui.net,1.2.1.r35x_20090812-1200,"org.eclipse.ui.net",1415919247302
+started,bundle,org.eclipse.ui.views,3.4.1.M20090826-0800,"org.eclipse.ui.views",1415919247302
+started,bundle,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"org.eclipse.ui.workbench",1415919247302
+started,bundle,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.workbench.texteditor",1415919247302
+started,bundle,org.eclipse.update.configurator,3.3.0.v20090312,"org.eclipse.update.configurator",1415919247302
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1415919247302
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1415919247302
+started,bundle,com.altera.sbtgui.integration,10.1.0.153,"com.altera.sbtgui.integration",1415919247302
+started,bundle,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch",1415919247302
+started,bundle,com.altera.sbtgui.project,10.1.0.153,"com.altera.sbtgui.project",1415919247302
+started,bundle,com.altera.systemconsole,10.1.0.153,"com.altera.systemconsole",1415919247302
+started,bundle,com.altera.utilities,10.1.0.153,"com.altera.utilities",1415919247302
+os,sysinfo,,,"win32",1415919247302
+arch,sysinfo,,,"x86",1415919247302
+ws,sysinfo,,,"win32",1415919247302
+locale,sysinfo,,,"en_CA",1415919247302
+processors,sysinfo,,,"4",1415919247302
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1415919247302

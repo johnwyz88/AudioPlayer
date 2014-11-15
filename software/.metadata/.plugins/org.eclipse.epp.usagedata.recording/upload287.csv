@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"CPU master group not set.",1415924026544
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1415924026662
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1415924029968
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1415924033546
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415924044315
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415924146418
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415924147556
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415924149563
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1415924151897
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415924177368
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1415924182727
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415924186175
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415924188668
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415924188864
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415924216894
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1415924218078
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415924249481
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415924250942
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415924298353
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415924352916
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1415924366542
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415924368619
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.copy",1415924372923
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.cut",1415924373343
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415924375720

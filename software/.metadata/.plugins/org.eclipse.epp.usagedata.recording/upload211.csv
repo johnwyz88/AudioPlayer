@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Connected system ID hash not found on target at expected base address.",1415895865989
+error,log,,,"Connected system timestamp not found on target at expected base address.",1415895865989
+error,log,,,"Connected system ID hash not found on target at expected base address.",1415895866098
+error,log,,,"Connected system timestamp not found on target at expected base address.",1415895866098
+error,log,,,"Connected system ID hash not found on target at expected base address.",1415895866207
+error,log,,,"Connected system timestamp not found on target at expected base address.",1415895866207
+error,log,,,"Connected system ID hash not found on target at expected base address.",1415895866316
+error,log,,,"Connected system timestamp not found on target at expected base address.",1415895866332
+error,log,,,"Connected system ID hash not found on target at expected base address.",1415895866441
+error,log,,,"Connected system timestamp not found on target at expected base address.",1415895866457
+error,log,,,"Connected system ID hash not found on target at expected base address.",1415895866566
+error,log,,,"Connected system timestamp not found on target at expected base address.",1415895866582
+error,log,,,"Connected system ID hash not found on target at expected base address.",1415895866691
+error,log,,,"Connected system timestamp not found on target at expected base address.",1415895866706
+error,log,,,"Connected system ID hash not found on target at expected base address.",1415895866706
+error,log,,,"Connected system timestamp not found on target at expected base address.",1415895866722
+error,log,,,"Launch terminated because launch connectivity invalid. Check launch configuration settings.",1415895866722
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415895866753
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415895868017
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415895872977
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415895873757
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415895873773
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415895890919
+error,log,,,"Connected system ID hash not found on target at expected base address.",1415895892386
+error,log,,,"Connected system timestamp not found on target at expected base address.",1415895892386

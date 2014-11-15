@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"CPU master group not set.",1414683152249
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414683152249
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414683152264
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414683152280
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414683152280
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414683152311
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414683152311
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414683161827
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414683161843
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414683162747
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414683162763
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414683169149
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414683169149
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414683170568
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414683170584
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414683170615
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414683170615
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414683170631
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414683170631
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414683171255
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414683171255
+error,log,,,"Connected system ID hash not found on target at expected base address.",1414683172050
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414683172050
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414683175997
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1414683176403

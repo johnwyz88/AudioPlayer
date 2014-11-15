@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1416069489023
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1416069489116
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1416069489507
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1416069491974
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1416069493238
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1416069493253
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1416069498121
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1416069499618
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1416069503284
+error,log,,,"SOPC design not set.",1416069503347
+error,log,,,"CPU module not set.",1416069503347
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1416069503347
+error,log,,,"CPU architecture type not set. ",1416069503347
+error,log,,,"CPU master group not set.",1416069503347
+error,log,,,"SOPC design not set.",1416069503440
+error,log,,,"CPU module not set.",1416069503440
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1416069503440
+error,log,,,"CPU architecture type not set. ",1416069503440
+error,log,,,"CPU master group not set.",1416069503440
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1416069503565
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1416069504657
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1416069506436
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1416069506467
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1416069510088
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1416069520496

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.copy",1415920207169
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1415920213393
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415920213674
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920215047
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920215983
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920215998
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920221349
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920222893
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920223658
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920224625
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415920226700
+error,log,,,"SOPC design not set.",1415920226762
+error,log,,,"CPU module not set.",1415920226762
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415920226762
+error,log,,,"CPU architecture type not set. ",1415920226762
+error,log,,,"CPU master group not set.",1415920226762
+error,log,,,"SOPC design not set.",1415920226856
+error,log,,,"CPU module not set.",1415920226856
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415920226856
+error,log,,,"CPU architecture type not set. ",1415920226856
+error,log,,,"CPU master group not set.",1415920226856
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1415920226965
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1415920230039
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1415920230694
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415920263878

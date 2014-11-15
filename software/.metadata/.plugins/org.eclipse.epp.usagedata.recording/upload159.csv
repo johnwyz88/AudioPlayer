@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415886935331
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415886936532
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415886936548
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415887030714
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415887036642
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415887062743
+error,log,,,"SOPC design not set.",1415887062793
+error,log,,,"CPU module not set.",1415887062803
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415887062803
+error,log,,,"CPU architecture type not set. ",1415887062813
+error,log,,,"CPU master group not set.",1415887062813
+error,log,,,"SOPC design not set.",1415887062893
+error,log,,,"CPU module not set.",1415887062903
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415887062903
+error,log,,,"CPU architecture type not set. ",1415887062913
+error,log,,,"CPU master group not set.",1415887062913
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1415887063003
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1415887066568
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1415887073124
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1415887088864
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1415887113543
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415887133293
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415887151389
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415887163011
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1415887170499

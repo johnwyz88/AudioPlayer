@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1415893894028
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1415893894168
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415893898084
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415893903824
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415893904823
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415893904838
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415893936974
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415893954773
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415893955912
+error,log,,,"SOPC design not set.",1415893955959
+error,log,,,"CPU module not set.",1415893955959
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415893955975
+error,log,,,"CPU architecture type not set. ",1415893955975
+error,log,,,"CPU master group not set.",1415893955975
+error,log,,,"SOPC design not set.",1415893956068
+error,log,,,"CPU module not set.",1415893956068
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415893956084
+error,log,,,"CPU architecture type not set. ",1415893956084
+error,log,,,"CPU master group not set.",1415893956099
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1415893956177
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1415893959657
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1415893965931
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1415893976087
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415894017302
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415894021592

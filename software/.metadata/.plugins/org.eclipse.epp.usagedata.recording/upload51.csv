@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Connected system timestamp not found on target at expected base address.",1414682594503
+error,log,,,"SOPC design not set.",1414682594519
+error,log,,,"CPU module not set.",1414682594519
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414682594519
+error,log,,,"CPU architecture type not set. ",1414682594534
+error,log,,,"CPU master group not set.",1414682594534
+error,log,,,"SOPC design not set.",1414682594550
+error,log,,,"SOPC design not set.",1414682594550
+error,log,,,"CPU module not set.",1414682594566
+error,log,,,"CPU module not set.",1414682594566
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414682594566
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414682594581
+error,log,,,"CPU architecture type not set. ",1414682594581
+error,log,,,"CPU architecture type not set. ",1414682594581
+error,log,,,"CPU master group not set.",1414682594597
+error,log,,,"CPU master group not set.",1414682594597
+error,log,,,"SOPC design not set.",1414682594612
+error,log,,,"CPU module not set.",1414682594628
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414682594628
+error,log,,,"CPU architecture type not set. ",1414682594628
+error,log,,,"CPU master group not set.",1414682594644
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414682594753
+error,log,,,"Target is broken and needs to be reset",1414682595611
+error,log,,,"SOPC design not set.",1414682595673
+error,log,,,"CPU module not set.",1414682595673

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.undo",1415893509992
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.redo",1415893512067
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415893513159
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415893518884
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415893519259
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415893520226
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415893520226
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415893552877
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415893571207
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1415893572470
+error,log,,,"SOPC design not set.",1415893572517
+error,log,,,"CPU module not set.",1415893572533
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415893572533
+error,log,,,"CPU architecture type not set. ",1415893572548
+error,log,,,"CPU master group not set.",1415893572548
+error,log,,,"SOPC design not set.",1415893572626
+error,log,,,"CPU module not set.",1415893572642
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415893572642
+error,log,,,"CPU architecture type not set. ",1415893572658
+error,log,,,"CPU master group not set.",1415893572658
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1415893572736
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1415893576184
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1415893582880
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1415893601662
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1415893634110

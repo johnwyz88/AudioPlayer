@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"CPU architecture type not set. ",1414681242561
+error,log,,,"CPU master group not set.",1414681242577
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1414681246370
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1414681253023
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681306553
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681327535
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1414681329095
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681330624
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681332652
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1414681334337
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1414681335273
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681343977
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681344960
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681344976
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681391115
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681394329
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1414681395577
+error,log,,,"SOPC design not set.",1414681395624
+error,log,,,"CPU module not set.",1414681395639
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414681395639
+error,log,,,"CPU architecture type not set. ",1414681395671
+error,log,,,"CPU master group not set.",1414681395686
+error,log,,,"SOPC design not set.",1414681395749
+error,log,,,"CPU module not set.",1414681395749
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1414681395764

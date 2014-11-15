@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.mylyn.context.ui,3.2.2.v20090912-0400-e3x,"org.eclipse.mylyn.context.ui",1414677490339
+started,bundle,org.eclipse.team.core,3.5.0.I20090527-0620,"org.eclipse.team.core",1414677490339
+started,bundle,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui",1414677490339
+started,bundle,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.editors",1414677490339
+started,bundle,org.eclipse.ui.forms,3.4.1.v20090714_35x,"org.eclipse.ui.forms",1414677490354
+started,bundle,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.ide",1414677490354
+started,bundle,org.eclipse.ui.intro,3.3.1.v20090805_35x,"org.eclipse.ui.intro",1414677490354
+started,bundle,org.eclipse.ui.intro.universal,3.2.300.v20090526,"org.eclipse.ui.intro.universal",1414677490354
+started,bundle,org.eclipse.ui.navigator,3.4.1.M20090911-1550,"org.eclipse.ui.navigator",1414677490354
+started,bundle,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.resources",1414677490354
+started,bundle,org.eclipse.ui.net,1.2.1.r35x_20090812-1200,"org.eclipse.ui.net",1414677490354
+started,bundle,org.eclipse.ui.views,3.4.1.M20090826-0800,"org.eclipse.ui.views",1414677490354
+started,bundle,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"org.eclipse.ui.workbench",1414677490354
+started,bundle,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.workbench.texteditor",1414677490354
+started,bundle,org.eclipse.update.configurator,3.3.0.v20090312,"org.eclipse.update.configurator",1414677490354
+started,bundle,com.altera.sbtgui.project,10.1.0.153,"com.altera.sbtgui.project",1414677490354
+started,bundle,com.altera.sbtgui.ui,10.1.0.153,"com.altera.sbtgui.ui",1414677490354
+os,sysinfo,,,"win32",1414677490354
+arch,sysinfo,,,"x86",1414677490354
+ws,sysinfo,,,"win32",1414677490354
+locale,sysinfo,,,"en_CA",1414677490354
+processors,sysinfo,,,"4",1414677490354
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1414677490354
+java.runtime.version,sysinfo,,,"1.6.0_14-b08",1414677490354
+java.specification.name,sysinfo,,,"Java Platform API Specification",1414677490354

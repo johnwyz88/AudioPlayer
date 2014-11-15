@@ -1,5 +1,5 @@
 obj/drivers/src/altera_avalon_jtag_uart_fd.o:  \
- n:/ECE224/lab2/software/lab2_bsp/drivers/src/altera_avalon_jtag_uart_fd.c \
+ c:/ECE224/AudioPlayer/software/lab2_bsp/drivers/src/altera_avalon_jtag_uart_fd.c \
   HAL/inc/alt_types.h HAL/inc/sys/alt_dev.h system.h linker.h \
   HAL/inc/sys/alt_llist.h HAL/inc/alt_types.h \
   HAL/inc/priv/alt_dev_llist.h HAL/inc/sys/alt_llist.h \

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1415919457383
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1415919457383
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1415919457383
+java.vm.specification.version,sysinfo,,,"1.0",1415919457383
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1415919457383
+java.vm.version,sysinfo,,,"14.0-b16",1415919457383
+started,bundle,org.eclipse.debug.ui,3.5.1.v20090811_r351,"org.eclipse.debug.ui",1415919459832
+error,log,,,"SOPC design not set.",1415919461844
+error,log,,,"CPU module not set.",1415919461844
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415919461844
+error,log,,,"CPU architecture type not set. ",1415919461844
+error,log,,,"CPU master group not set.",1415919461860
+error,log,,,"SOPC design not set.",1415919461860
+error,log,,,"CPU module not set.",1415919461860
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415919461860
+error,log,,,"CPU architecture type not set. ",1415919461860
+error,log,,,"CPU master group not set.",1415919461860
+started,bundle,org.eclipse.cdt.debug.core,6.0.0.200909110608,"org.eclipse.cdt.debug.core",1415919461875
+started,bundle,org.eclipse.cdt.launch,6.0.0.200909110608,"org.eclipse.cdt.launch",1415919461875
+error,log,,,"sun.awt.X11.XlibWrapper",1415919462203
+started,bundle,com.altera.sbtgui.core,10.1.0.153,"com.altera.sbtgui.core",1415919462640
+error,log,,,"SOPC design not set.",1415919463779
+error,log,,,"CPU module not set.",1415919463779
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1415919463779
+error,log,,,"CPU architecture type not set. ",1415919463779
