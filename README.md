@@ -6,7 +6,7 @@ an SD card in the Altera DE2 board.
 It's for my ECE224 lab project from the University
 of Waterloo.
 
-Disclamer: This code is free of charge and does
+Disclaimer: This code is free of charge and does
 not provide warranty of any kind. 
 
 You must email me at johnwyz88@gmail.com before 
