@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.debug.core"".",1416073736091
+error,log,,,"An exception occurred while dispatching debug events.",1416073736091
+stopped,bundle,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch",1416073737012
+stopped,bundle,org.eclipse.cdt.debug.mi.core,6.0.0.200909110608,"org.eclipse.cdt.debug.mi.core",1416073737012
+stopped,bundle,org.eclipse.cdt.dsf.gdb.ui,2.0.0.200909110608,"org.eclipse.cdt.dsf.gdb.ui",1416073737012
+stopped,bundle,org.eclipse.cdt.dsf.ui,2.0.1.200909110608,"org.eclipse.cdt.dsf.ui",1416073737012
+stopped,bundle,com.altera.sbtgui.ui,10.1.0.153,"com.altera.sbtgui.ui",1416073737012
+stopped,bundle,com.altera.sbtgui.project,10.1.0.153,"com.altera.sbtgui.project",1416073737012
+stopped,bundle,org.eclipse.cdt.launch,6.0.0.200909110608,"org.eclipse.cdt.launch",1416073737012
+stopped,bundle,org.eclipse.cdt.debug.ui,6.0.0.200909110608,"org.eclipse.cdt.debug.ui",1416073737012
+stopped,bundle,org.eclipse.cdt.dsf.gdb,2.0.0.200909110608,"org.eclipse.cdt.dsf.gdb",1416073737012
+stopped,bundle,org.eclipse.cdt.dsf,2.0.0.200909110608,"org.eclipse.cdt.dsf",1416073737012
+stopped,bundle,org.eclipse.cdt.debug.core,6.0.0.200909110608,"org.eclipse.cdt.debug.core",1416073737012
+stopped,bundle,org.eclipse.cdt.managedbuilder.ui,5.1.0.200909110608,"org.eclipse.cdt.managedbuilder.ui",1416073737012
+stopped,bundle,org.eclipse.cdt.make.ui,6.0.1.200909110608,"org.eclipse.cdt.make.ui",1416073737012
+stopped,bundle,org.eclipse.cdt.managedbuilder.gnu.ui,5.0.100.200909110608,"org.eclipse.cdt.managedbuilder.gnu.ui",1416073737012
+stopped,bundle,org.eclipse.cdt.managedbuilder.core,6.0.0.200909110608,"org.eclipse.cdt.managedbuilder.core",1416073737012
+stopped,bundle,org.eclipse.cdt.make.core,6.0.0.200909110608,"org.eclipse.cdt.make.core",1416073737012
+stopped,bundle,org.eclipse.cdt.mylyn.ui,1.0.100.200909110608,"org.eclipse.cdt.mylyn.ui",1416073737012
+stopped,bundle,com.altera.sbtgui.flash.plugin,10.1.0.153,"com.altera.sbtgui.flash.plugin",1416073737012
+stopped,bundle,com.altera.sbtgui.gprof,10.1.0.153,"com.altera.sbtgui.gprof",1416073737012
+stopped,bundle,com.altera.sbtgui.core,10.1.0.153,"com.altera.sbtgui.core",1416073737012
+stopped,bundle,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui",1416073737012
+stopped,bundle,org.eclipse.cdt.core,5.1.1.200909110608,"org.eclipse.cdt.core",1416073737012
+stopped,bundle,org.eclipse.compare.win32,1.0.0.I20090430-0408,"org.eclipse.compare.win32",1416073737012

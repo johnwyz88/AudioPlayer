@@ -637,7 +637,7 @@ Disassembly of section .entry:
  2000014:	08406d14 	ori	at,at,436
     jmp r1
  2000018:	0800683a 	jmp	at
- 200001c:	00000000 	call	0 <__alt_mem_sdram_0-0x2000000>
+ 200001c:	00000000 	call	0 <__reset-0x2000000>
 
 Disassembly of section .exceptions:
 
@@ -5960,7 +5960,7 @@ alt_after_alt_main:
  2004d48:	02004e28 	cmpgeui	r8,zero,312
  2004d4c:	02004e28 	cmpgeui	r8,zero,312
  2004d50:	02004e28 	cmpgeui	r8,zero,312
- 2004d54:	02005480 	call	200548 <__alt_mem_sdram_0-0x1dffab8>
+ 2004d54:	02005480 	call	200548 <__reset-0x1dffab8>
  2004d58:	02005aec 	andhi	r8,zero,363
  2004d5c:	02004e28 	cmpgeui	r8,zero,312
  2004d60:	02005aec 	andhi	r8,zero,363
@@ -5977,7 +5977,7 @@ alt_after_alt_main:
  2004d8c:	02004e28 	cmpgeui	r8,zero,312
  2004d90:	02004e28 	cmpgeui	r8,zero,312
  2004d94:	02004e28 	cmpgeui	r8,zero,312
- 2004d98:	02005580 	call	200558 <__alt_mem_sdram_0-0x1dffaa8>
+ 2004d98:	02005580 	call	200558 <__reset-0x1dffaa8>
  2004d9c:	02004e28 	cmpgeui	r8,zero,312
  2004da0:	02004e28 	cmpgeui	r8,zero,312
  2004da4:	02005ba0 	cmpeqi	r8,zero,366
@@ -6003,7 +6003,7 @@ alt_after_alt_main:
  2004df4:	02005a60 	cmpeqi	r8,zero,361
  2004df8:	02004e28 	cmpgeui	r8,zero,312
  2004dfc:	02005a30 	cmpltui	r8,zero,360
- 2004e00:	02005540 	call	200554 <__alt_mem_sdram_0-0x1dffaac>
+ 2004e00:	02005540 	call	200554 <__reset-0x1dffaac>
  2004e04:	02005a90 	cmplti	r8,zero,362
  2004e08:	02005a7c 	xorhi	r8,zero,361
  2004e0c:	02004e28 	cmpgeui	r8,zero,312
@@ -21178,7 +21178,7 @@ void alt_icache_flush (void* start, alt_u32 len)
  2010f34:	20000726 	beq	r4,zero,2010f54 <__call_exitprocs+0x1a0>
  2010f38:	b9000015 	stw	r4,0(r23)
  2010f3c:	8809883a 	mov	r4,r17
- 2010f40:	00000000 	call	0 <__alt_mem_sdram_0-0x2000000>
+ 2010f40:	00000000 	call	0 <__reset-0x2000000>
  2010f44:	bc400017 	ldw	r17,0(r23)
  2010f48:	883fb71e 	bne	r17,zero,2010e28 <__call_exitprocs+0x74>
  2010f4c:	003fc506 	br	2010e64 <__call_exitprocs+0xb0>
@@ -21252,13 +21252,13 @@ void ALT_EXIT (int exit_code)
   while (1);
  2010fc0:	003fff06 	br	2010fc0 <_exit+0x1c>
  2010fc4:	00000010 	cmplti	zero,zero,0
- 2010fc8:	00000000 	call	0 <__alt_mem_sdram_0-0x2000000>
- 2010fcc:	00527a01 	jmpi	527a0 <__alt_mem_sdram_0-0x1fad860>
- 2010fd0:	011f7c01 	jmpi	11f7c0 <__alt_mem_sdram_0-0x1ee0840>
+ 2010fc8:	00000000 	call	0 <__reset-0x2000000>
+ 2010fcc:	00527a01 	jmpi	527a0 <__reset-0x1fad860>
+ 2010fd0:	011f7c01 	jmpi	11f7c0 <__reset-0x1ee0840>
  2010fd4:	001b0c0b 	ldhu	zero,27696(zero)
  2010fd8:	00000028 	cmpgeui	zero,zero,0
  2010fdc:	00000018 	cmpnei	zero,zero,0
- 2010fe0:	0200bb80 	call	200bb8 <__alt_mem_sdram_0-0x1dff448>
+ 2010fe0:	0200bb80 	call	200bb8 <__reset-0x1dff448>
  2010fe4:	0000066c 	andhi	zero,zero,25
  2010fe8:	3c0e4400 	call	3c0e440 <__alt_data_end+0x140e440>
  2010fec:	910a9074 	orhi	r4,r18,10817

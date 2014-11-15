@@ -35,7 +35,7 @@
 </editorArea>
 <editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="C:/ECE224/AudioPlayer/software/lab2/main.c" title="main.c" tooltip="lab2/main.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/lab2/main.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="437" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="482" selectionTopPixel="5354"/>
 </editor>
 </editors>
 <views>
@@ -403,9 +403,6 @@
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/lab2/LCD.c"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/lab2/main.c"/>
 </editors>
-<item historyLabel="main.c" index="1">
-<position/>
-</item>
 <item historyLabel="LCD.c" index="2">
 <position info="not_deleted" x="486" y="0"/>
 </item>
@@ -550,6 +547,9 @@
 <item historyLabel="main.c" index="7">
 <position info="not_deleted" x="0" y="0"/>
 </item>
+<item historyLabel="main.c" index="7">
+<position info="not_deleted" x="0" y="0"/>
+</item>
 <item active="true" historyLabel="main.c" index="7">
 <position info="not_deleted" x="0" y="0"/>
 </item>
@@ -559,9 +559,6 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
-<trimArea IMemento.internal.id="16384">
-<trimItem IMemento.internal.id="topLeft"/>
-</trimArea>
 <trimArea IMemento.internal.id="131072">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@921a90"/>
 <trimItem IMemento.internal.id="topRight"/>
@@ -573,7 +570,6 @@
 <trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
-<trimItem IMemento.internal.id="bottom"/>
 </trimArea>
 </trimLayout>
 </window>
