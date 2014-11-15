@@ -16,15 +16,15 @@
 data_file df;
 int cc[5000];
 BYTE buffer[512];
-BYTE dlybuf[88200];
+BYTE dlybuf[88200]; //delay buffer is 88200 in length which correspond to 1 second
 int length_cc;
 int mask;
 volatile int stop;
 volatile u_int button1;
 volatile u_int button2;
 volatile u_int button3;
-volatile int prevsw, sw;
-static void init_button_pio();
+volatile int prevsw, sw; //store previous and current switch base
+static void init_button_pio(); //initialize button interrupt
 static void handle_button_interrupts(void* context, alt_u32 id);
 void nextsong();
 void prevsong();
@@ -55,6 +55,7 @@ void main() {
 		if (button1 == 0) {
 			//play song
 			printf("button1\n");
+			//disable all buttons interrupts except button 0 (stop the song)
 			mask = 0x01;
 			init_button_pio();
 			switch(sw){
@@ -79,13 +80,13 @@ void main() {
 			//next song
 			printf("button2\n");
 			nextsong();
-			usleep(500000);
+			usleep(500000); //debounce
 			button2 = 1;
 		} else if (button3 == 0) {
 			//prev song
 			printf("button3\n");
 			prevsong();
-			usleep(500000);
+			usleep(500000); //debounce
 			button3 = 1;
 		}
 		sw = IORD(SWITCH_PIO_BASE, 0);
@@ -127,7 +128,6 @@ void nextsong() {
 	LCD_File_Buffering(df.Name);
 	length_cc = 1 + ceil(df.FileSize / (BPB_BytsPerSec * BPB_SecPerClus));
 	build_cluster_chain(cc, length_cc, &df);
-	//printf("file_number: %i, length_cc: %i\n", file_number, length_cc);
 	LCD_Display(df.Name,sw);
 }
 
@@ -137,21 +137,22 @@ void prevsong() {
 	LCD_File_Buffering(df.Name);
 	length_cc = 1 + ceil(df.FileSize / (BPB_BytsPerSec * BPB_SecPerClus));
 	build_cluster_chain(cc, length_cc, &df);
-	//printf("file_number: %i, length_cc: %i\n", file_number, length_cc);
 	LCD_Display(df.Name,sw);
 }
 
 void normal_speed() {
 	int i, j;
-	// Normal speed
+	// traverse through each cluster
 	for (j = 1; j <= (length_cc * BPB_SecPerClus); j++) {
 		get_rel_sector(&df, buffer, cc, j);
 		i = 1;
+		//play each sector
 		while (i <= 512) {
 			UINT16 tmp;
 			while (IORD( AUD_FULL_BASE, 0 )) {
 			}
 			tmp = (buffer[i] << 8) | (buffer[i + 1]);
+			// if stop flag is signal, enable button interrupt and return to main
 			if(stop){
 				mask = 0xff;
 				init_button_pio();
@@ -162,6 +163,7 @@ void normal_speed() {
 			i = i + 2;
 		}
 	}
+	//enable button interrupt
 	mask = 0xff;
 	init_button_pio();
 }
@@ -169,10 +171,11 @@ void normal_speed() {
 void half_speed() {
 	int i, j;
 
-	// Half speed
+	// traverse through each cluster
 	for (j = 1; j <= (length_cc * BPB_SecPerClus); j++) {
 		get_rel_sector(&df, buffer, cc, j);
 		i = 1;
+		//play each sector twice
 		while (i <= 512) {
 			UINT16 tmp, replayed;
 			replayed = 0;
@@ -180,6 +183,7 @@ void half_speed() {
 				while (IORD( AUD_FULL_BASE, 0 )) {
 				}
 				tmp = (buffer[i] << 8) | (buffer[i + 1]);
+				// if stop flag is signal, enable button interrupt and return to main
 				if(stop){
 					mask = 0xff;
 					init_button_pio();
@@ -192,6 +196,7 @@ void half_speed() {
 			i = i + 2;
 		}
 	}
+	//enable button interrupt
 	mask = 0xff;
 	init_button_pio();
 }
@@ -199,15 +204,17 @@ void half_speed() {
 void double_speed() {
 	int i, j;
 
-	// Double speed
+	// traverse through each cluster
 	for (j = 1; j <= (length_cc * BPB_SecPerClus); j++) {
 		get_rel_sector(&df, buffer, cc, j);
 		i = 1;
+		//play each sector with double the step
 		while (i <= 512) {
 			UINT16 tmp;
 			while (IORD( AUD_FULL_BASE, 0 )) {
 			}
 			tmp = (buffer[i] << 8) | (buffer[i + 1]);
+			// if stop flag is signal, enable button interrupt and return to main
 			if(stop){
 				mask = 0xff;
 				init_button_pio();
@@ -218,6 +225,7 @@ void double_speed() {
 			i = i + 4;
 		}
 	}
+	//enable button interrupt
 	mask = 0xff;
 	init_button_pio();
 }
@@ -225,15 +233,17 @@ void double_speed() {
 void reverse() {
 	int i, j;
 
-	// Reverse
+	// traverse through each cluster
 	for (j = (length_cc * BPB_SecPerClus); j >= 0; j--) {
 		get_rel_sector(&df, buffer, cc, j);
 		i = 511;
+		//play each sector backwards
 		while (i >= 1) {
 			UINT16 tmp;
 			while (IORD( AUD_FULL_BASE, 0 )) {
 			}
 			tmp = (buffer[i] << 8) | (buffer[i + 1]);
+			// if stop flag is signal, enable button interrupt and return to main
 			if(stop){
 				mask = 0xff;
 				init_button_pio();
@@ -244,6 +254,7 @@ void reverse() {
 			i = i - 2;
 		}
 	}
+	//enable button interrupt
 	mask = 0xff;
 	init_button_pio();
 }
@@ -293,6 +304,7 @@ void delay() {
 				count = 1;
 		}
 	}
+	// play the remaining 1 second to the right channel
 	int remain = 1;
 	while(remain <= 88200){
 		UINT16 dlytmp;
