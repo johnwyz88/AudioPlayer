@@ -15,8 +15,8 @@
 
 data_file df;
 int cc[5000];
-BYTE buffer[512];
-BYTE dlybuf[88200]; //delay buffer is 88200 in length which correspond to 1 second
+BYTE buffer[513];
+BYTE dlybuf[88201]; //delay buffer is 88200 in length which correspond to 1 second
 int length_cc;
 int mask;
 volatile int stop;
@@ -236,7 +236,7 @@ void reverse() {
 	// traverse through each cluster
 	for (j = (length_cc * BPB_SecPerClus); j >= 0; j--) {
 		get_rel_sector(&df, buffer, cc, j);
-		i = 511;
+		i = 509;
 		//play each sector backwards
 		while (i >= 1) {
 			UINT16 tmp;
@@ -251,7 +251,20 @@ void reverse() {
 				return;
 			}
 			IOWR( AUDIO_0_BASE, 0, tmp );
-			i = i - 2;
+			
+			while (IORD( AUD_FULL_BASE, 0 )) {
+			}
+			tmp = (buffer[i + 2] << 8) | (buffer[i + 3]);
+			// if stop flag is signal, enable button interrupt and return to main
+			if(stop){
+				mask = 0xff;
+				init_button_pio();
+				stop = 0;
+				return;
+			}
+			IOWR( AUDIO_0_BASE, 0, tmp );
+			
+			i = i - 4;
 		}
 	}
 	//enable button interrupt
